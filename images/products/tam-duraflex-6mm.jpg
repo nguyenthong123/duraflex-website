@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="vi" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://duraflex.com.vn/sites/default/files/styles/product_full/public/2023-12/6mm-01.jpg" />
+<meta property="og:title" content="Page 404 DURAflex" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #e3decf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #212529;} .eu-cookie-withdraw-tab { border-color: #212529;}</style>
+<link rel="shortcut icon" href="/themes/duraflex/assets/images/dynamic/favicon.ico" type="image/vnd.microsoft.icon" />
+
+
+                                                
+                                <title>Page 404 | DURAflex</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_F_KL_QFIwNC9l31eQK1VfkEx-4HqWJa4HEdkyG2xi0k.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Tf2dYrOi9qXvZdhZh6TAgkRUBjsKmPL3Ut5ZnTzAVcw.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+
+    <link rel="stylesheet" href="/themes/duraflex/assets/css/user.css">
+    <script type="application/ld+json">{
+      "@context": "http://schema.org",
+      "@type": "LocalBusiness",
+      "name": "DURAflex",
+      "image": "https://duraflex.com.vn/themes/duraflex/assets/images/logo.png",
+      "url": "https://duraflex.com.vn/",
+      "telephone": "+84-1800-1218",
+      "priceRange": "$$$",
+      "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Tầng 8 - Tòa nhà SOFIC, Số 10 Đường Mai Chí Thọ, Quận 2",
+          "addressRegion": "HCM",
+          "addressLocality": "Hồ Chí Minh",
+          "postalCode": "700000",
+          "addressCountry": "VN"
+      },
+      "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 10.7681224,
+          "longitude": 106.7030202
+          
+      },
+      "openingHoursSpecification": [{
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+                        ],
+          "opens": "08:00",
+          "closes": "17:30"
+      },{
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "08:00",
+          "closes": "12:00"
+      }],
+      "sameAs": [
+      "https://www.facebook.com/TamDURAflex/",
+      "https://www.youtube.com/channel/UCop_DtdSS4bSOXUJWShmw1Q"
+      ]
+      
+      }
+  }</script>
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "url": "https://duraflex.com.vn/",
+            "sameAs": [
+                "https://www.facebook.com/TamDURAflex/",
+                "https://www.youtube.com/channel/UCop_DtdSS4bSOXUJWShmw1Q"
+            ],
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+84-1800-1218",
+                    "availableLanguage": "Vietnamese",
+                    "contactType": "customer service",
+                    "contactOption": "TollFree"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+84-1800-1218",
+                    "availableLanguage": "Vietnamese",
+                    "contactType": "sales",
+                    "contactOption": "TollFree"
+                }
+            ],
+            "logo": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://duraflex.com.vn/themes/duraflex/assets/images/logo.png"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "DURAflex",
+            "name": "DURAflex",
+            "url": "https://duraflex.com.vn/",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "query": "https://duraflex.com.vn/search-result?q_result={search_term_string}",
+                "query-input": "required name=search_term_string",
+                "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://duraflex.com.vn/search-result?q_result={search_term_string}"
+                }
+            }
+        }
+    ]
+}</script>
+        <meta name="facebook-domain-verification" content="yti14qy66fi350y8oqt8pwvcxpwwu8" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P2SNSG6');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1104269290171624');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1104269290171624&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- Clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "icc5qseu3s");
+</script>
+<!-- End Clarity -->
+
+<!-- TikTok Pixel Code Start -->
+<script>
+!function (w, d, t) {
+  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t][];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie","holdConsent","revokeConsent","grantConsent"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(
+var e=ttq._i[t][],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var r="https://analytics.tiktok.com/i18n/pixel/events.js",o=n&&n.partner;ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=r,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script")
+;n.type="text/javascript",n.async=!0,n.src=r+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+
+
+  ttq.load('CQAVSDBC77UCUPKFUC5G');
+  ttq.page();
+}(window, document, 'ttq');
+</script>
+<!-- TikTok Pixel Code End -->
+
+  </head>
+    <body>
+  <!-- Messenger Chat plugin Code -->
+  <div id="fb-root"></div>
+
+  <!-- Your Chat plugin code -->
+  <div id="fb-customer-chat" class="fb-customerchat">
+  </div>
+
+  <script>
+    var chatbox = document.getElementById('fb-customer-chat');
+    chatbox.setAttribute("page_id", "1649749698654916");
+    chatbox.setAttribute("attribution", "biz_inbox");
+  </script>
+
+  <!-- Your SDK code -->
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        xfbml            : true,
+        version          : 'v17.0'
+      });
+    };
+
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2SNSG6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+        <a href="#main-content" class="visually-hidden focusable">
+      Nhảy đến nội dung
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  <header class="header content-header clearfix">
+    <div class="header__top">
+      <div class="container">
+        <div class="header__personal">
+                                                          
+                              
+                                                            <p >DURAflex Chào buổi chiều!</p>
+                                    </div>
+        <div class="header__left">
+                        <p class="header__phone">
+              <svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.7482 12.4172L10.1262 14.0149C9.28049 13.5045 8.49478 12.9007 7.78385 12.2149C7.09934 11.5036 6.49591 10.7185 5.98464 9.87407L7.5831 8.25214C7.67902 8.15407 7.74379 8.02981 7.76927 7.89502C7.79475 7.76022 7.77979 7.62089 7.72627 7.49458L6.0604 3.60603C5.99456 3.45285 5.87588 3.32842 5.72598 3.25542C5.57608 3.18241 5.40494 3.1657 5.24375 3.20831L2.18776 4.01511C2.03475 4.05476 1.8998 4.14528 1.80507 4.27181C1.71035 4.39834 1.6615 4.55333 1.66655 4.7113C1.86118 8.26534 3.339 11.628 5.82556 14.1747C8.37321 16.6617 11.737 18.1393 15.292 18.333C15.4498 18.338 15.6046 18.2891 15.7308 18.1943C15.8571 18.0996 15.9474 17.9647 15.9867 17.8118L16.7943 14.7543C16.8371 14.5932 16.8205 14.422 16.7477 14.2721C16.6748 14.1222 16.5504 14.0035 16.3973 13.9376L12.5118 12.2725C12.3846 12.2178 12.2439 12.2023 12.1078 12.2281C11.9718 12.2539 11.8465 12.3197 11.7482 12.4172V12.4172Z" stroke="#EBECB9" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.5144 1.66666C13.3227 1.66666 15.0569 2.38498 16.3355 3.66361C17.6141 4.94224 18.3324 6.67644 18.3324 8.48469" stroke="#EBECB9" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.5144 4.6969C12.519 4.6969 13.4824 5.09597 14.1928 5.80632C14.9031 6.51667 15.3022 7.48011 15.3022 8.4847" stroke="#EBECB9" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+              </svg>
+              <a href="tel:1800-1218" ><b id="top-hotline-18">1800-1218</b></a>
+            </p>
+            <ul class="header__socials">
+              <li><a id="top-youtube" href="https://www.youtube.com/channel/UCop_DtdSS4bSOXUJWShmw1Q" title="youtube"><img alt="youtube" src="/themes/duraflex/assets/images/video-header.png"></a></li>
+              <li><a id="top-zalo" href="https://zalo.me/3218249434437381102" title="zalo"><img alt="zalo" src="/themes/duraflex/assets/images/Zalo-header.png"></a></li>
+              <li><a id="top-facebook" href="https://www.facebook.com/TamDURAflex/" title="Facebook"><img alt="facebook" src="/themes/duraflex/assets/images/facebook-header.png"></a></li>
+            </ul>
+        </div>
+        <div class="header__right">
+        <form class="form-control form-search" data-drupal-selector="search-id" action="/sites/default/files/styles/product_full/public/2023-12/6mm-01.jpg" method="post" id="search-id" accept-charset="UTF-8">
+  
+<input autocomplete="off" data-drupal-selector="form-ejuvr-ecwth-lm3aofwgibnzdwzdlgut0pzil4zxxqi" type="hidden" name="form_build_id" value="form-eJuvR_ECwth_lM3aOFwgiBnZdwZdLgut0pZIl4zxxQI" />
+
+
+<input data-drupal-selector="edit-search-id" type="hidden" name="form_id" value="search_id" />
+
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search form-item-search form-no-label">
+        <input placeholder="Tìm kiếm nhanh" data-drupal-selector="edit-search" type="text" id="edit-search" name="search" value="" size="60" maxlength="128" class="form-text" />
+
+        </div>
+
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-btn button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Submit" />
+</div>
+
+<svg class="btn-search" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M19.8779 19.2887L13.7925 13.2033C15.0565 11.7999 15.8334 9.94957 15.8334 7.91664C15.8333 3.55145 12.2819 0 7.91668 0C3.55145 0 0 3.55145 0 7.91668C0 12.2819 3.55145 15.8334 7.91668 15.8334C9.94961 15.8334 11.7999 15.0565 13.2034 13.7925L19.2887 19.8779C19.3701 19.9593 19.4768 20 19.5834 20C19.69 20 19.7966 19.9593 19.878 19.8779C20.0407 19.7152 20.0407 19.4515 19.8779 19.2887ZM7.91668 15C4.01125 15 0.833359 11.8225 0.833359 7.91668C0.833359 4.01086 4.01125 0.83332 7.91668 0.83332C11.8221 0.83332 15 4.01082 15 7.91668C15 11.8225 11.8221 15 7.91668 15Z" fill="#1A1A1A"></path>
+</svg>
+
+
+</form>
+
+        </div>
+      </div>
+    </div>
+    <div class="header__bottom">
+      <div class="container">
+        <div class="header__logo"><a href="/" title="logo"><img src="/sites/default/files/styles/medium/public/2025-03/Logo-01_0.png" alt="logo"></a></div>
+        <div class="d-block d-lg-none ml-auto"> <a class="btn btn__cart cart-mob" id="top-bao-gia" href="/gio-hang">
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M9.5 23C10.3284 23 11 22.3284 11 21.5C11 20.6716 10.3284 20 9.5 20C8.67157 20 8 20.6716 8 21.5C8 22.3284 8.67157 23 9.5 23Z" fill="#C6CCD3"></path>
+                <path d="M18.5 23C19.3284 23 20 22.3284 20 21.5C20 20.6716 19.3284 20 18.5 20C17.6716 20 17 20.6716 17 21.5C17 22.3284 17.6716 23 18.5 23Z" fill="#C6CCD3"></path>
+                <path d="M2 2H5L7 16C7 16.5304 7.21071 17.0391 7.58579 17.4142C7.96086 17.7893 8.46957 18 9 18H20" stroke="#C6CCD3" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M6 6H23L21 14H7" stroke="#C6CCD3" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+              </svg><span class="number">0</span></a></div>
+        <button class="header__hamburger"><span></span><span></span><span></span></button>
+        <ul class="header__nav header-pc">
+          
+
+    <li class=" has-mega-menu ">
+        <a href="/vi/ung-dung" title="Ứng dụng"><b>Ứng dụng</b></a>
+                <div class="mega-menu">
+            <div class="container">
+                <div class="row mega-menu__row">
+                                                                    <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/nha-dan-dung-va-nhung-ung-dung-tu-duraflex" title="Nhà dân dụng">Nhà dân dụng</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                                                            <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/ung-dung-tam-xi-mang-duraflex-cho-nha-cong-nghiep" title="Nhà công nghiệp">Nhà công nghiệp</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                                                            <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/ung-dung-cho-khong-gian-kinh-doanh-luu-tru" title="Mô hình lưu trú">Mô hình lưu trú</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                                                            <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/ung-dung-cua-duraflex-cho-khong-gian-kinh-doanh-ban-le" title="Mô hình kinh doanh - dịch vụ bán lẻ">Mô hình kinh doanh - dịch vụ bán lẻ</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                                                            <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/ung-dung-cho-cac-khong-gian-khac" title="Ứng dụng khác">Ứng dụng khác</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                            </div>
+            </div>
+        </div>
+            </li>
+    <li class=" has-mega-menu ">
+        <a href="/vi/san-pham" title="Sản phẩm"><b>Sản phẩm</b></a>
+                <div class="mega-menu">
+            <div class="container">
+                <div class="row mega-menu__row">
+                                                                        <div class="col-lg-4 mega-menu__col">
+                                <h3 class="h4">
+                                    <a href="https://duraflex.com.vn/vi/tam-duraflex-2x-6mm-10mm" class="" title="Tấm xi măng DURAflex"><b>Tấm xi măng DURAflex</b></a>
+                                </h3>
+                                <ul class="text-small">
+                                                                            <li class=""><a href="https://duraflex.com.vn/vi/tam-xi-mang-duraflex-4mm-6mm" title="Tấm DURAflex Low Carbon 4mm - 4.5mm">Tấm DURAflex Low Carbon 4mm - 4.5mm</a></li>
+                                                                            <li class=""><a href="/vi/tam-duraflex-2x-6mm-10mm" title="Tấm DURAflex Low Carbon 6mm-10mm">Tấm DURAflex Low Carbon 6mm-10mm</a></li>
+                                                                            <li class=""><a href="/tam-duraflex-2x-tren-12mm" title="Tấm DURAflex Low Carbon trên 12mm">Tấm DURAflex Low Carbon trên 12mm</a></li>
+                                                                            <li class=""><a href="/vi/tam-tran-tha-duradecor" title="Tấm trần thả DURADECOR">Tấm trần thả DURADECOR</a></li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div class="col-lg-4 mega-menu__col">
+                                <h3 class="h4">
+                                    <a href="https://duraflex.com.vn/vi/tam-xi-mang-van-go-durawood" class="" title="Tấm xi măng vân gỗ DURAwood Low Carbon"><b>Tấm xi măng vân gỗ DURAwood Low Carbon</b></a>
+                                </h3>
+                                <ul class="text-small">
+                                                                            <li class=""><a href="/vi/tam-xi-mang-van-go-durawood" title="Tấm xi măng vân gỗ DURAwood Low Carbon">Tấm xi măng vân gỗ DURAwood Low Carbon</a></li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div class="col-lg-4 mega-menu__col">
+                                <h3 class="h4">
+                                    <a href="https://duraflex.com.vn/vi/keo-xu-ly-moi-noi-durafiller" class="" title="Phụ kiện và vật liệu xử lý mối nối"><b>Phụ kiện và vật liệu xử lý mối nối</b></a>
+                                </h3>
+                                <ul class="text-small">
+                                                                            <li class=""><a href="/vi/keo-xu-ly-moi-noi-durafiller" title="Keo xử lý mối nối DURAfiller">Keo xử lý mối nối DURAfiller</a></li>
+                                                                            <li class=""><a href="/vi/vit-tu-khoan-duravis" title="VÍT TỰ KHOAN DURAvis">VÍT TỰ KHOAN DURAvis</a></li>
+                                                                    </ul>
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+            </li>
+    <li class="  ">
+        <a href="https://duraflex.com.vn/vi/bang-gia-khuyen-nghi-san-pham-san-vach-tu-duraflex" title="BẢNG GIÁ"><b>BẢNG GIÁ</b></a>
+            </li>
+    <li class="  ">
+        <a href="/vi/y-tuong" title="Ý tưởng"><b>Ý tưởng</b></a>
+            </li>
+    <li class="active  ">
+        <a href="/vi/he-thong-phan-phoi" title="Hệ thống Phân phối"><b>Hệ thống Phân phối</b></a>
+            </li>
+    
+        </ul>
+                    <a class="btn btn__cart cart-block--link__expand" id="top-bao-gia" href="/gio-hang">
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M9.5 23C10.3284 23 11 22.3284 11 21.5C11 20.6716 10.3284 20 9.5 20C8.67157 20 8 20.6716 8 21.5C8 22.3284 8.67157 23 9.5 23Z" fill="#C6CCD3"></path>
+                  <path d="M18.5 23C19.3284 23 20 22.3284 20 21.5C20 20.6716 19.3284 20 18.5 20C17.6716 20 17 20.6716 17 21.5C17 22.3284 17.6716 23 18.5 23Z" fill="#C6CCD3"></path>
+                  <path d="M2 2H5L7 16C7 16.5304 7.21071 17.0391 7.58579 17.4142C7.96086 17.7893 8.46957 18 9 18H20" stroke="#C6CCD3" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                  <path d="M6 6H23L21 14H7" stroke="#C6CCD3" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+              </svg>
+              <span>Mua hàng</span>
+              <span class="number">0</span>
+          </a>
+        <div class="header-mb">
+          <div class="header-mb__top">
+              <div class="header-mb__container">
+                <form class="form-control form-search" data-drupal-selector="search-id-2" action="/sites/default/files/styles/product_full/public/2023-12/6mm-01.jpg" method="post" id="search-id--2" accept-charset="UTF-8">
+  
+<input autocomplete="off" data-drupal-selector="form-elgoyvkh6qwtrmqeruhxp54lu4xik8vh-egjqsmu7vk" type="hidden" name="form_build_id" value="form-ELgoyvKh6qWTRmqEruhXp54Lu4xIK8vh_egJQsmU7vk" />
+
+
+<input data-drupal-selector="edit-search-id-2" type="hidden" name="form_id" value="search_id" />
+
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search form-item-search form-no-label">
+        <input placeholder="Tìm kiếm nhanh" data-drupal-selector="edit-search" type="text" id="edit-search--2" name="search" value="" size="60" maxlength="128" class="form-text" />
+
+        </div>
+
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input class="search-btn button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="Submit" />
+</div>
+
+<svg class="btn-search" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M19.8779 19.2887L13.7925 13.2033C15.0565 11.7999 15.8334 9.94957 15.8334 7.91664C15.8333 3.55145 12.2819 0 7.91668 0C3.55145 0 0 3.55145 0 7.91668C0 12.2819 3.55145 15.8334 7.91668 15.8334C9.94961 15.8334 11.7999 15.0565 13.2034 13.7925L19.2887 19.8779C19.3701 19.9593 19.4768 20 19.5834 20C19.69 20 19.7966 19.9593 19.878 19.8779C20.0407 19.7152 20.0407 19.4515 19.8779 19.2887ZM7.91668 15C4.01125 15 0.833359 11.8225 0.833359 7.91668C0.833359 4.01086 4.01125 0.83332 7.91668 0.83332C11.8221 0.83332 15 4.01082 15 7.91668C15 11.8225 11.8221 15 7.91668 15Z" fill="#1A1A1A"></path>
+</svg>
+
+
+</form>
+
+              </div>
+            </div>
+            <div class="header-mb__bottom">
+              <div class="header-mb__container">
+                <ul class="header__nav">
+                  
+
+    <li class=" has-mega-menu ">
+        <a href="/vi/ung-dung" title="Ứng dụng"><b>Ứng dụng</b></a>
+                <div class="mega-menu">
+            <div class="container">
+                <div class="row mega-menu__row">
+                                                                    <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/nha-dan-dung-va-nhung-ung-dung-tu-duraflex" title="Nhà dân dụng">Nhà dân dụng</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                                                            <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/ung-dung-tam-xi-mang-duraflex-cho-nha-cong-nghiep" title="Nhà công nghiệp">Nhà công nghiệp</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                                                            <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/ung-dung-cho-khong-gian-kinh-doanh-luu-tru" title="Mô hình lưu trú">Mô hình lưu trú</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                                                            <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/ung-dung-cua-duraflex-cho-khong-gian-kinh-doanh-ban-le" title="Mô hình kinh doanh - dịch vụ bán lẻ">Mô hình kinh doanh - dịch vụ bán lẻ</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                                                            <div class="col-lg-4 mega-menu__col">
+                            <ul class="text-small">
+                                                                    <li class="">
+                                        <a href="/vi/ung-dung-cho-cac-khong-gian-khac" title="Ứng dụng khác">Ứng dụng khác</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                            </div>
+            </div>
+        </div>
+            </li>
+    <li class=" has-mega-menu ">
+        <a href="/vi/san-pham" title="Sản phẩm"><b>Sản phẩm</b></a>
+                <div class="mega-menu">
+            <div class="container">
+                <div class="row mega-menu__row">
+                                                                        <div class="col-lg-4 mega-menu__col">
+                                <h3 class="h4">
+                                    <a href="https://duraflex.com.vn/vi/tam-duraflex-2x-6mm-10mm" class="" title="Tấm xi măng DURAflex"><b>Tấm xi măng DURAflex</b></a>
+                                </h3>
+                                <ul class="text-small">
+                                                                            <li class=""><a href="https://duraflex.com.vn/vi/tam-xi-mang-duraflex-4mm-6mm" title="Tấm DURAflex Low Carbon 4mm - 4.5mm">Tấm DURAflex Low Carbon 4mm - 4.5mm</a></li>
+                                                                            <li class=""><a href="/vi/tam-duraflex-2x-6mm-10mm" title="Tấm DURAflex Low Carbon 6mm-10mm">Tấm DURAflex Low Carbon 6mm-10mm</a></li>
+                                                                            <li class=""><a href="/tam-duraflex-2x-tren-12mm" title="Tấm DURAflex Low Carbon trên 12mm">Tấm DURAflex Low Carbon trên 12mm</a></li>
+                                                                            <li class=""><a href="/vi/tam-tran-tha-duradecor" title="Tấm trần thả DURADECOR">Tấm trần thả DURADECOR</a></li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div class="col-lg-4 mega-menu__col">
+                                <h3 class="h4">
+                                    <a href="https://duraflex.com.vn/vi/tam-xi-mang-van-go-durawood" class="" title="Tấm xi măng vân gỗ DURAwood Low Carbon"><b>Tấm xi măng vân gỗ DURAwood Low Carbon</b></a>
+                                </h3>
+                                <ul class="text-small">
+                                                                            <li class=""><a href="/vi/tam-xi-mang-van-go-durawood" title="Tấm xi măng vân gỗ DURAwood Low Carbon">Tấm xi măng vân gỗ DURAwood Low Carbon</a></li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div class="col-lg-4 mega-menu__col">
+                                <h3 class="h4">
+                                    <a href="https://duraflex.com.vn/vi/keo-xu-ly-moi-noi-durafiller" class="" title="Phụ kiện và vật liệu xử lý mối nối"><b>Phụ kiện và vật liệu xử lý mối nối</b></a>
+                                </h3>
+                                <ul class="text-small">
+                                                                            <li class=""><a href="/vi/keo-xu-ly-moi-noi-durafiller" title="Keo xử lý mối nối DURAfiller">Keo xử lý mối nối DURAfiller</a></li>
+                                                                            <li class=""><a href="/vi/vit-tu-khoan-duravis" title="VÍT TỰ KHOAN DURAvis">VÍT TỰ KHOAN DURAvis</a></li>
+                                                                    </ul>
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+            </li>
+    <li class="  ">
+        <a href="https://duraflex.com.vn/vi/bang-gia-khuyen-nghi-san-pham-san-vach-tu-duraflex" title="BẢNG GIÁ"><b>BẢNG GIÁ</b></a>
+            </li>
+    <li class="  ">
+        <a href="/vi/y-tuong" title="Ý tưởng"><b>Ý tưởng</b></a>
+            </li>
+    <li class="active  ">
+        <a href="/vi/he-thong-phan-phoi" title="Hệ thống Phân phối"><b>Hệ thống Phân phối</b></a>
+            </li>
+    
+                </ul>
+                <ul class="header-mb__menu">
+                      <li class="">
+        <a href="" title="Chương trình">Chương trình</a>
+    </li>
+    <li class="">
+        <a href="" title="Hỗ trợ kĩ thuật">Hỗ trợ kĩ thuật</a>
+    </li>
+    <li class="">
+        <a href="/vi/lien-he" title="Liên hệ">Liên hệ</a>
+    </li>
+    <li class="">
+        <a href="/vi/tin-tuc-su-kien" title="Tin tức">Tin tức</a>
+    </li>
+    <li class="">
+        <a href="/vi/ve-chung-toi" title="Về chúng tôi">Về chúng tôi</a>
+    </li>
+   
+                </ul>
+                <div class="header-mb__socials">
+                  <p><b>Kết nối với chúng tôi</b></p>
+                  <ul>
+                    <li><a class="bottom-youtube" href="https://www.youtube.com/channel/UCop_DtdSS4bSOXUJWShmw1Q" title="youtube"><img alt="youtube" src="/themes/duraflex/assets/images/icon/yt-mb.png"></a></li>
+                    <li><a class="bottom-zalo" href="https://zalo.me/3218249434437381102" title="zalo"><img alt="zalo" src="/themes/duraflex/assets/images/icon/zalo-mb.png"></a></li>
+                    <li><a class="bottom-facebook" href="https://www.facebook.com/TamDURAflex/" title="Facebook"><img alt="facebook" src="/themes/duraflex/assets/images/icon/facebook-mb.png"></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+
+  </header>
+
+  <div class="layout-container">
+    
+    
+    <main class="page-content clearfix" role="main">
+      <div class="visually-hidden"><a id="main-content" tabindex="-1"></a></div>
+      
+            <div class="page-container ">
+              <div class="region region-content">
+    <div id="block-duraflex-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="block-region-top"><div class="block block-block-content block-block-contentb1b90774-0293-494f-960d-6fcfacb85fb4">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="section text-center page-404">
+<div class="container">
+<h1 class="h1">Không tìm thấy trang!</h1>
+<svg class="img" fill="none" height="141" viewbox="0 0 694 141" width="694" xmlns="http://www.w3.org/2000/svg"><path d="M98.4799 55.0781L81.2955 3.74531C81.0752 2.86406 80.1939 2.20312 79.3127 2.20312H61.6877C60.8064 2.20312 59.9252 2.86406 59.7049 3.74531L42.5205 55.0781H98.4799Z" fill="#C8371A"></path><path d="M108.834 85.9219L100.022 59.4844H40.978L32.1655 85.9219H108.834Z" fill="#C8371A"></path><path d="M136.594 134.391H124.917L110.156 90.3281H30.6234L16.0828 134.391H4.40625C3.08437 134.391 2.20312 135.272 2.20312 136.594C2.20312 137.916 3.08437 138.797 4.40625 138.797H123.375H136.594C137.916 138.797 138.797 137.916 138.797 136.594C138.797 135.272 137.916 134.391 136.594 134.391Z" fill="#C8371A"></path><path d="M651.48 55.0781L634.296 3.74531C634.075 2.86406 633.194 2.20312 632.313 2.20312H614.688C613.806 2.20312 612.925 2.86406 612.705 3.74531L595.521 55.0781H651.48Z" fill="#C8371A"></path><path d="M661.835 85.9219L653.022 59.4844H593.979L585.166 85.9219H661.835Z" fill="#C8371A"></path><path d="M689.594 134.391H677.917L663.156 90.3281H583.623L569.083 134.391H557.406C556.084 134.391 555.203 135.272 555.203 136.594C555.203 137.916 556.084 138.797 557.406 138.797H676.375H689.594C690.916 138.797 691.797 137.916 691.797 136.594C691.797 135.272 690.916 134.391 689.594 134.391Z" fill="#C8371A"></path><path d="M197 97.0645L258.172 3.54883H278.387V94.0762H292.361V116.752H278.387V136.527H254.393V116.752H197V97.0645ZM254.393 94.0762V43.9785L222.576 94.0762H254.393Z" fill="black"></path><path d="M392.381 47.7578V92.9336C392.381 99.4961 391.678 105.209 390.271 110.072C388.689 115.814 385.877 120.941 381.834 125.453C377.791 129.906 372.811 133.422 366.893 136C361.033 138.52 355.027 139.779 348.875 139.779C342.547 139.779 336.541 138.695 330.857 136.527C325.232 134.418 320.105 131.166 315.477 126.771C310.848 122.377 307.537 117.045 305.545 110.775C304.021 105.736 303.26 99.4375 303.26 91.8789V47.7578C303.26 41.2539 303.992 35.3359 305.457 30.0039C306.98 24.6719 309.705 19.7793 313.631 15.3262C317.615 10.8145 322.684 7.29883 328.836 4.7793C331.883 3.54883 334.959 2.61133 338.064 1.9668C341.229 1.32227 344.451 1 347.732 1C353.826 1 359.656 2.08398 365.223 4.25195C370.848 6.36133 375.828 9.55469 380.164 13.832C384.559 18.0508 387.752 23.2656 389.744 29.4766C391.502 34.8672 392.381 40.9609 392.381 47.7578ZM327.254 48.1094V91.1758C327.254 96.3906 327.605 100.258 328.309 102.777C329.07 105.297 330.301 107.553 332 109.545C333.758 111.537 336.072 113.178 338.943 114.467C340.291 115.053 341.697 115.521 343.162 115.873C344.627 116.225 346.092 116.4 347.557 116.4C350.662 116.4 353.65 115.785 356.521 114.555C359.451 113.266 361.854 111.449 363.729 109.105C365.662 106.703 366.98 103.92 367.684 100.756C368.211 98.3535 368.475 95.2773 368.475 91.5273V47.2305C368.475 40.6094 366.688 35.2188 363.113 31.0586C359.305 26.6055 354.119 24.3789 347.557 24.3789C344.51 24.3789 341.58 25.0527 338.768 26.4004C335.955 27.748 333.611 29.5352 331.736 31.7617C330.096 33.9883 328.924 36.4785 328.221 39.2324C327.928 40.4629 327.693 41.8398 327.518 43.3633C327.342 44.8281 327.254 46.4102 327.254 48.1094Z" fill="black"></path><path d="M398.797 97.0645L459.969 3.54883H480.184V94.0762H494.158V116.752H480.184V136.527H456.189V116.752H398.797V97.0645ZM456.189 94.0762V43.9785L424.373 94.0762H456.189Z" fill="black"></path><rect fill="#E9D335" height="48" transform="rotate(-5.45214 139 67)" width="432" x="139" y="67"></rect><g clip-path="url(#clip0)"><path d="M163.831 66.0484C163.619 65.8084 163.305 65.6847 162.986 65.7151L147.059 67.2353C146.684 67.2711 146.362 67.5138 146.224 67.8635C146.085 68.2133 146.155 68.6114 146.404 68.893L163.941 88.7285L150.473 111.523C150.282 111.847 150.289 112.251 150.49 112.568C150.693 112.886 151.055 113.063 151.429 113.027L167.357 111.507C167.676 111.477 167.961 111.296 168.123 111.02L181.961 87.5993C182.181 87.2257 182.136 86.7528 181.849 86.4276L163.831 66.0484Z" fill="black"></path></g><g clip-path="url(#clip1)"><path d="M211.615 61.4877C211.403 61.2477 211.089 61.124 210.77 61.1544L194.842 62.6747C194.468 62.7104 194.146 62.9531 194.007 63.3029C193.869 63.6526 193.939 64.0507 194.188 64.3324L211.725 84.1678L198.257 106.963C198.066 107.286 198.072 107.69 198.273 108.008C198.476 108.325 198.839 108.502 199.213 108.467L215.141 106.946C215.459 106.916 215.744 106.735 215.907 106.459L229.744 83.0386C229.965 82.665 229.92 82.1921 229.632 81.867L211.615 61.4877Z" fill="black"></path></g><g clip-path="url(#clip2)"><path d="M259.397 56.927C259.185 56.6871 258.871 56.5634 258.552 56.5938L242.625 58.114C242.25 58.1497 241.928 58.3925 241.79 58.7422C241.651 59.0919 241.721 59.4901 241.97 59.7717L259.507 79.6072L246.039 102.402C245.848 102.726 245.854 103.13 246.055 103.447C246.259 103.764 246.621 103.942 246.995 103.906L262.923 102.386C263.241 102.355 263.527 102.174 263.689 101.899L277.526 78.478C277.747 78.1043 277.702 77.6315 277.415 77.3063L259.397 56.927Z" fill="black"></path></g><g clip-path="url(#clip3)"><path d="M307.18 52.3663C306.968 52.1264 306.654 52.0026 306.335 52.033L290.408 53.5533C290.034 53.589 289.711 53.8317 289.573 54.1815C289.434 54.5312 289.505 54.9293 289.753 55.211L307.29 75.0464L293.822 97.8412C293.631 98.1648 293.638 98.5691 293.839 98.8864C294.042 99.2035 294.404 99.3809 294.779 99.3452L310.706 97.8249C311.025 97.7945 311.31 97.6136 311.472 97.3379L325.31 73.9172C325.53 73.5436 325.485 73.0707 325.198 72.7456L307.18 52.3663Z" fill="black"></path></g><g clip-path="url(#clip4)"><path d="M354.963 47.8056C354.751 47.5657 354.437 47.442 354.119 47.4724L338.191 48.9926C337.817 49.0283 337.494 49.2711 337.356 49.6208C337.218 49.9705 337.288 50.3687 337.537 50.6503L355.074 70.4858L341.606 93.2805C341.414 93.6042 341.421 94.0084 341.622 94.3257C341.825 94.6429 342.187 94.8202 342.562 94.7845L358.489 93.2643C358.808 93.2339 359.093 93.053 359.256 92.7773L373.093 69.3566C373.313 68.9829 373.268 68.5101 372.981 68.1849L354.963 47.8056Z" fill="black"></path></g><g clip-path="url(#clip5)"><path d="M402.745 43.245C402.534 43.005 402.219 42.8813 401.901 42.9117L385.973 44.4319C385.599 44.4677 385.277 44.7104 385.138 45.0601C385 45.4099 385.07 45.808 385.319 46.0896L402.856 65.9251L389.388 88.7199C389.197 89.0435 389.203 89.4477 389.404 89.7651C389.607 90.0822 389.97 90.2596 390.344 90.2238L406.272 88.7036C406.59 88.6732 406.875 88.4923 407.038 88.2166L420.875 64.7959C421.096 64.4223 421.05 63.9494 420.763 63.6242L402.745 43.245Z" fill="black"></path></g><g clip-path="url(#clip6)"><path d="M450.529 38.6843C450.317 38.4443 450.003 38.3206 449.684 38.351L433.757 39.8713C433.382 39.907 433.06 40.1497 432.921 40.4995C432.783 40.8492 432.853 41.2473 433.102 41.5289L450.639 61.3644L437.171 84.1592C436.98 84.4828 436.986 84.8871 437.187 85.2044C437.39 85.5215 437.753 85.6989 438.127 85.6632L454.055 84.1429C454.373 84.1125 454.658 83.9316 454.821 83.6559L468.658 60.2352C468.879 59.8616 468.834 59.3887 468.546 59.0636L450.529 38.6843Z" fill="black"></path></g><g clip-path="url(#clip7)"><path d="M498.311 34.1236C498.099 33.8837 497.785 33.76 497.466 33.7904L481.539 35.3106C481.164 35.3463 480.842 35.5891 480.704 35.9388C480.565 36.2885 480.635 36.6867 480.884 36.9683L498.421 56.8038L484.953 79.5985C484.762 79.9222 484.768 80.3264 484.97 80.6437C485.173 80.9609 485.535 81.1382 485.909 81.1025L501.837 79.5823C502.156 79.5519 502.441 79.371 502.603 79.0953L516.44 55.6746C516.661 55.3009 516.616 54.8281 516.329 54.5029L498.311 34.1236Z" fill="black"></path></g><g clip-path="url(#clip8)"><path d="M546.094 29.5629C545.882 29.3229 545.568 29.1992 545.25 29.2296L529.322 30.7499C528.948 30.7856 528.625 31.0283 528.487 31.3781C528.348 31.7278 528.419 32.1259 528.667 32.4076L546.204 52.243L532.736 75.0378C532.545 75.3614 532.552 75.7657 532.753 76.083C532.956 76.4001 533.318 76.5775 533.693 76.5418L549.62 75.0215C549.939 74.9911 550.224 74.8102 550.386 74.5345L564.224 51.1138C564.444 50.7402 564.399 50.2673 564.112 49.9422L546.094 29.5629Z" fill="black"></path></g><defs><clippath id="clip0"><rect fill="white" height="48" transform="translate(139 67) rotate(-5.45214)" width="48"></rect></clippath><clippath id="clip1"><rect fill="white" height="48" transform="translate(186.783 62.4393) rotate(-5.45214)" width="48"></rect></clippath><clippath id="clip2"><rect fill="white" height="48" transform="translate(234.565 57.8787) rotate(-5.45214)" width="48"></rect></clippath><clippath id="clip3"><rect fill="white" height="48" transform="translate(282.349 53.3179) rotate(-5.45214)" width="48"></rect></clippath><clippath id="clip4"><rect fill="white" height="48" transform="translate(330.132 48.7573) rotate(-5.45214)" width="48"></rect></clippath><clippath id="clip5"><rect fill="white" height="48" transform="translate(377.914 44.1966) rotate(-5.45214)" width="48"></rect></clippath><clippath id="clip6"><rect fill="white" height="48" transform="translate(425.697 39.6359) rotate(-5.45214)" width="48"></rect></clippath><clippath id="clip7"><rect fill="white" height="48" transform="translate(473.479 35.0753) rotate(-5.45214)" width="48"></rect></clippath><clippath id="clip8"><rect fill="white" height="48" transform="translate(521.263 30.5145) rotate(-5.45214)" width="48"></rect></clippath></defs></svg><h3 class="h3"><b>Chúng tôi rất tiếc về sự cố này. Bạn có muốn quay lại trang chủ?</b></h3>
+<a class="btn btn-primary btn-icon" href="/" title="">Về trang chủ <svg fill="none" height="11" viewbox="0 0 8 11" width="8" xmlns="http://www.w3.org/2000/svg"><path d="M-5.49515e-07 0.5L-4.99559e-08 10.5C-2.93729e-08 10.912 0.470382 11.1472 0.8 10.9L7.46667 5.9C7.73333 5.7 7.73333 5.3 7.46667 5.1L0.799999 0.1C0.470381 -0.147214 -5.70098e-07 0.0879774 -5.49515e-07 0.5Z" fill="white"></path></svg></a>
+
+<form accept-charset="UTF-8" action="/vi/search-result" class="form-control form-search" data-drupal-form-fields="edit-search,edit-submit" data-drupal-selector="search-id" id="search-id" method="post">
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search form-item-search form-no-label"><input class="form-text" data-drupal-selector="edit-search" id="edit-search" maxlength="128" name="q_result" placeholder="Nhập từ khóa bạn muốn tìm ?" size="60" type="text" value="" /></div>
+
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"><input class="search-btn button js-form-submit form-submit" data-drupal-selector="edit-submit" id="edit-submit" name="op" type="submit" value="Submit" /></div>
+<svg class="btn-search" fill="none" height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M12.5 11H11.71L11.43 10.73C12.41 9.59 13 8.11 13 6.5C13 2.91 10.09 0 6.5 0C2.91 0 0 2.91 0 6.5C0 10.09 2.91 13 6.5 13C8.11 13 9.59 12.41 10.73 11.43L11 11.71V12.5L16 17.49L17.49 16L12.5 11ZM6.5 11C4.01 11 2 8.99 2 6.5C2 4.01 4.01 2 6.5 2C8.99 2 11 4.01 11 6.5C11 8.99 8.99 11 6.5 11Z" fill="#C6CCD3"></path></svg></form>
+
+<ul class="menu"><li><a href="/vi/danh-sach-ung-dung" title="">Ứng dụng</a></li>
+	<li><a href="/vi/danh-sach-san-pham" title="">sản phẩm</a></li>
+	<li><a href="/vi/danh-sach-giai-phap" title="">giải pháp</a></li>
+	<li><a href="/vi/danh-sach-y-tuong" title="">ý tưởng</a></li>
+</ul></div>
+</div>
+</div>
+      
+  </div>
+</div>
+  </div>
+
+  </div>
+
+      </div>
+      <div class="quick-link">
+            <div class="quick-link__item"><a class="quick-link__link" id="btn-ho-tro" href="https://duraflex.com.vn/vi/lien-he" title="Hỗ trợ"><span class="quick-link__label">Hỗ trợ</span><span class="quick-link__icon">
+            <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M14.3749 6.25H6.87488C6.52988 6.25 6.24988 6.53 6.24988 6.875C6.24988 7.22 6.52988 7.5 6.87488 7.5H14.3749C14.7199 7.5 14.9999 7.22 14.9999 6.875C14.9999 6.53 14.7199 6.25 14.3749 6.25Z" fill="white"></path>
+              <path d="M11.8749 8.75H6.87488C6.52988 8.75 6.24988 9.03 6.24988 9.375C6.24988 9.72 6.52988 10 6.87488 10H11.8749C12.2199 10 12.4999 9.72 12.4999 9.375C12.4999 9.03 12.2199 8.75 11.8749 8.75Z" fill="white"></path>
+              <path d="M16.2499 2.5H4.99988C3.62113 2.5 2.49988 3.62125 2.49988 5V17.5C2.49988 17.7425 2.63988 17.9637 2.85988 18.0662C2.94363 18.105 3.03488 18.125 3.12488 18.125C3.26863 18.125 3.41113 18.075 3.52488 17.98L7.10113 15H16.2499C17.6286 15 18.7499 13.8787 18.7499 12.5V5C18.7499 3.62125 17.6286 2.5 16.2499 2.5ZM17.4999 12.5C17.4999 13.1888 16.9399 13.75 16.2499 13.75H6.87488C6.72863 13.75 6.58738 13.8013 6.47488 13.895L3.74988 16.1662V5C3.74988 4.31125 4.30988 3.75 4.99988 3.75H16.2499C16.9399 3.75 17.4999 4.31125 17.4999 5V12.5Z" fill="white"></path>
+              <path d="M19.9998 7.5C19.6548 7.5 19.3748 7.78 19.3748 8.125C19.3748 8.47 19.6548 8.75 19.9998 8.75C20.6898 8.75 21.2498 9.31125 21.2498 10V20.5737L19.1398 18.8863C19.0298 18.7987 18.891 18.75 18.7498 18.75H9.99976C9.30976 18.75 8.74976 18.1888 8.74976 17.5V16.875C8.74976 16.53 8.46976 16.25 8.12476 16.25C7.77976 16.25 7.49976 16.53 7.49976 16.875V17.5C7.49976 18.8787 8.62101 20 9.99976 20H18.5298L21.4835 22.3637C21.5973 22.4537 21.736 22.5 21.8748 22.5C21.966 22.5 22.0585 22.48 22.146 22.4388C22.3623 22.3338 22.4998 22.115 22.4998 21.875V10C22.4998 8.62125 21.3785 7.5 19.9998 7.5Z" fill="white"></path>
+            </svg></span></a></div>
+                  <div class="quick-link__item"><a class="quick-link__link" id="btn-call" href="tel:1800-1218" title="1800-1218"><span class="quick-link__label">Hotline</span><span class="quick-link__icon">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M14.0979 14.9006L12.1515 16.8179C11.1367 16.2054 10.1938 15.4809 9.34069 14.6579C8.51928 13.8044 7.79516 12.8622 7.18165 11.8489L9.09979 9.90256C9.2149 9.78488 9.29263 9.63577 9.3232 9.47402C9.35377 9.31226 9.33582 9.14507 9.2716 8.99349L7.27255 4.32723C7.19354 4.14341 7.05113 3.9941 6.87125 3.9065C6.69137 3.81889 6.48601 3.79883 6.29257 3.84996L2.62538 4.81813C2.44178 4.8657 2.27983 4.97434 2.16616 5.12617C2.0525 5.278 1.99387 5.46399 1.99994 5.65356C2.23349 9.9184 4.00687 13.9536 6.99074 17.0097C10.0479 19.994 14.0845 21.7671 18.3505 21.9996C18.5398 22.0056 18.7256 21.9469 18.8771 21.8332C19.0286 21.7195 19.1369 21.5576 19.1841 21.3741L20.1532 17.7051C20.2046 17.5118 20.1847 17.3064 20.0973 17.1265C20.0098 16.9466 19.8606 16.8042 19.6768 16.7251L15.0142 14.727C14.8616 14.6613 14.6928 14.6427 14.5295 14.6737C14.3662 14.7046 14.2159 14.7837 14.0979 14.9006V14.9006Z" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M13.8174 2C15.9873 2 18.0683 2.86199 19.6027 4.39635C21.137 5.9307 21.999 8.01174 21.999 10.1816" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M13.8174 5.63629C15.0229 5.63629 16.179 6.11518 17.0314 6.9676C17.8839 7.82002 18.3627 8.97615 18.3627 10.1816" stroke="white" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg></span></a></div>
+                </div>
+    </main>
+
+  </div>
+  <div class="section last-section">
+      <div class="container">
+        <h3 class="h1 block-title">DURAflex dành cho bạn</h3>
+          <div class="views-element-container">  
+    
+      
+        <div class="mod-slide slide-cols slide-card">
+<div class="slick-slide">
+    <div class="card">
+    <div class="card__thumb"><img alt="duraflex" class="lazyload" src="/themes/duraflex/assets/images/default/footer-card.svg" data-src="/sites/default/files/2020-11/DURA_danh_cho_ban_3.jpg">
+    <a class="link" href="https://www.facebook.com/groups/2516923351857623"></a></div>
+        <div class="card__content">
+            <p class="h3"><a href='https://www.facebook.com/groups/2516923351857623'><b>Góc nhà thầu, thợ thi công</b></a></p><a class="btn-card" href="https://www.facebook.com/groups/2516923351857623">
+            <svg width="6" height="10" viewbox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M-3.90451e-07 1.06752L-4.66628e-08 8.93248C-2.81327e-08 9.3564 0.494428 9.58798 0.820091 9.31659L5.53907 5.38411C5.77894 5.18421 5.77894 4.81579 5.53907 4.61589L0.820092 0.68341C0.494428 0.412024 -4.08981e-07 0.643602 -3.90451e-07 1.06752Z" fill="white"></path>
+            </svg></a>
+        </div>
+    </div>
+</div>
+<div class="slick-slide">
+    <div class="card">
+    <div class="card__thumb"><img alt="duraflex" class="lazyload" src="/themes/duraflex/assets/images/default/footer-card.svg" data-src="/sites/default/files/2020-11/DURA_danh_cho_ban_1.jpg">
+    <a class="link" href="/vi/hoi-dap-ky-thuat"></a></div>
+        <div class="card__content">
+            <p class="h3"><a href='/vi/hoi-dap-ky-thuat'><b>Giải đáp kỹ thuật thi công</b></a></p><a class="btn-card" href="/vi/hoi-dap-ky-thuat">
+            <svg width="6" height="10" viewbox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M-3.90451e-07 1.06752L-4.66628e-08 8.93248C-2.81327e-08 9.3564 0.494428 9.58798 0.820091 9.31659L5.53907 5.38411C5.77894 5.18421 5.77894 4.81579 5.53907 4.61589L0.820092 0.68341C0.494428 0.412024 -4.08981e-07 0.643602 -3.90451e-07 1.06752Z" fill="white"></path>
+            </svg></a>
+        </div>
+    </div>
+</div>
+<div class="slick-slide">
+    <div class="card">
+    <div class="card__thumb"><img alt="duraflex" class="lazyload" src="/themes/duraflex/assets/images/default/footer-card.svg" data-src="/sites/default/files/2020-11/DURA_danh_cho_ban_2.jpg">
+    <a class="link" href="https://duraflex.com.vn/vi/bao-hanh-tam-xi-mang-duraflex-2x"></a></div>
+        <div class="card__content">
+            <p class="h3"><a href='https://duraflex.com.vn/vi/bao-hanh-tam-xi-mang-duraflex-2x'><b>Điều kiện bảo hành tại Việt Nam</b></a></p><a class="btn-card" href="https://duraflex.com.vn/vi/bao-hanh-tam-xi-mang-duraflex-2x">
+            <svg width="6" height="10" viewbox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M-3.90451e-07 1.06752L-4.66628e-08 8.93248C-2.81327e-08 9.3564 0.494428 9.58798 0.820091 9.31659L5.53907 5.38411C5.77894 5.18421 5.77894 4.81579 5.53907 4.61589L0.820092 0.68341C0.494428 0.412024 -4.08981e-07 0.643602 -3.90451e-07 1.06752Z" fill="white"></path>
+            </svg></a>
+        </div>
+    </div>
+</div>
+<div class="slick-slide">
+    <div class="card">
+    <div class="card__thumb"><img alt="duraflex" class="lazyload" src="/themes/duraflex/assets/images/default/footer-card.svg" data-src="/sites/default/files/2020-11/DURA_danh_cho_ban_4.jpg">
+    <a class="link" href="https://duraflex.com.vn/vi/bang-gia-khuyen-nghi-san-pham-san-vach-tu-duraflex"></a></div>
+        <div class="card__content">
+            <p class="h3"><a href='https://duraflex.com.vn/vi/bang-gia-khuyen-nghi-san-pham-san-vach-tu-duraflex'><b>Bảng giá dự kiến 2023</b></a></p><a class="btn-card" href="https://duraflex.com.vn/vi/bang-gia-khuyen-nghi-san-pham-san-vach-tu-duraflex">
+            <svg width="6" height="10" viewbox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M-3.90451e-07 1.06752L-4.66628e-08 8.93248C-2.81327e-08 9.3564 0.494428 9.58798 0.820091 9.31659L5.53907 5.38411C5.77894 5.18421 5.77894 4.81579 5.53907 4.61589L0.820092 0.68341C0.494428 0.412024 -4.08981e-07 0.643602 -3.90451e-07 1.06752Z" fill="white"></path>
+            </svg></a>
+        </div>
+    </div>
+</div>
+</div>
+
+
+  
+          </div>
+
+      </div>
+  </div>
+<div class="modal modal-alert fade" id="addCartSuccess" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+          <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M0.357981 0.357981C0.835288 -0.119327 1.60916 -0.119327 2.08646 0.357981L11 9.27152L19.9135 0.357981C20.3908 -0.119327 21.1647 -0.119327 21.642 0.357981C22.1193 0.835288 22.1193 1.60916 21.642 2.08646L12.7285 11L21.642 19.9135C22.1193 20.3908 22.1193 21.1647 21.642 21.642C21.1647 22.1193 20.3908 22.1193 19.9135 21.642L11 12.7285L2.08646 21.642C1.60916 22.1193 0.835288 22.1193 0.357981 21.642C-0.119327 21.1647 -0.119327 20.3908 0.357981 19.9135L9.27152 11L0.357981 2.08646C-0.119327 1.60916 -0.119327 0.835288 0.357981 0.357981Z" fill="#5F6771"></path>
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="content">
+          <div class="icon">
+            <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M46.6929 28.5081C44.2604 28.5081 41.4404 27.7381 38.2004 26.2031C34.5879 24.4856 32.8454 24.5606 31.6904 24.6006C30.7579 24.6431 29.7954 24.6756 28.8404 23.7206C28.5054 23.3856 26.9829 21.5606 29.9754 18.5681C31.4679 17.0756 33.5154 16.6456 35.2929 16.6206L24.9304 6.26063C23.5129 4.84313 23.5179 2.53313 24.9379 1.11063C26.3579 -0.311872 28.6679 -0.314372 30.0879 1.10313L34.3979 5.41313C34.5679 5.07313 34.7954 4.75563 35.0779 4.47313C35.7654 3.78313 36.6829 3.40313 37.6554 3.40063H37.6579C38.0279 3.40063 38.3879 3.45563 38.7329 3.56063C38.9079 3.06813 39.1954 2.60313 39.5904 2.20813C40.2779 1.51813 41.1954 1.13563 42.1704 1.13563C43.0504 1.13563 43.8829 1.44563 44.5404 2.01813C44.7154 1.67063 44.9454 1.34813 45.2279 1.06813C46.6479 -0.354372 48.9579 -0.354372 50.3754 1.05813L57.1254 7.81063C59.3254 10.0131 60.2904 12.7056 59.9304 15.6206C59.6104 18.2056 58.2154 20.8531 56.0029 23.0756C55.9929 23.0856 55.9829 23.0981 55.9729 23.1081C55.9604 23.1206 55.9479 23.1331 55.9329 23.1456L53.1504 25.9306C51.4029 27.6506 49.2629 28.5081 46.6929 28.5081ZM32.3679 22.0856C33.7329 22.0856 35.8329 22.3131 39.2704 23.9431C46.7329 27.4856 49.7579 25.7631 51.3879 24.1581L54.2029 21.3406C54.2104 21.3331 54.2154 21.3256 54.2229 21.3181C56.0604 19.4656 57.1929 17.3456 57.4454 15.3156C57.7079 13.1931 56.9929 11.2181 55.3754 9.60313L48.6054 2.83063C48.1654 2.38813 47.4404 2.39063 46.9904 2.83813C46.7729 3.05563 46.6529 3.34563 46.6529 3.65063C46.6529 3.95313 46.7704 4.23813 46.9829 4.45063L48.6704 6.13813C48.9154 6.38313 49.0354 6.70313 49.0354 7.02313C49.0354 7.34313 48.9129 7.66313 48.6704 7.90813C48.1829 8.39563 47.3904 8.39563 46.9029 7.90813L42.9654 3.97313C42.5354 3.53813 41.7829 3.54063 41.3529 3.98063C40.9054 4.42813 40.9029 5.15063 41.3454 5.59563L44.1579 8.40813C44.4029 8.65313 44.5229 8.97313 44.5229 9.29313C44.5229 9.61313 44.4004 9.93313 44.1579 10.1781C43.6704 10.6656 42.8779 10.6656 42.3904 10.1781L38.4529 6.24063C38.2404 6.02563 37.9554 5.90813 37.6529 5.90813C37.3479 5.90813 37.0604 6.02813 36.8429 6.24813C36.3954 6.69563 36.3929 7.41813 36.8354 7.86313L39.6479 10.6756C39.8929 10.9206 40.0129 11.2406 40.0129 11.5606C40.0129 11.8806 39.8904 12.2006 39.6479 12.4456C39.1604 12.9331 38.3679 12.9331 37.8804 12.4456L28.3179 2.88313C27.8754 2.43813 27.1504 2.44313 26.7029 2.89063C26.2554 3.33813 26.2529 4.06313 26.6979 4.50563L39.6329 17.4431C40.0379 17.8456 40.1154 18.4731 39.8229 18.9631C39.5304 19.4556 38.9404 19.6806 38.3929 19.5256C38.3479 19.5106 33.8704 18.2281 31.7404 20.3531C30.7729 21.3231 30.6304 21.9181 30.6554 22.0506C30.7629 22.1256 30.7854 22.1531 31.5879 22.1181C31.8204 22.0956 32.0779 22.0856 32.3679 22.0856ZM46.1104 1.95313H46.1354H46.1104Z" fill="#51AC31"></path>
+              <rect x="1.25" y="22.25" width="15.5" height="15.5" rx="1.75" stroke="#51AC31" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></rect>
+              <path d="M22 32L39 32" stroke="#51AC31" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M22 53L39 53" stroke="#51AC31" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M22 59L58 59" stroke="#51AC31" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <path d="M22 38L58 38" stroke="#51AC31" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+              <rect x="1.25" y="43.25" width="15.5" height="15.5" rx="1.75" stroke="#51AC31" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></rect>
+              <rect x="1.25" y="1.25" width="15.5" height="15.5" rx="1.75" stroke="#51AC31" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></rect>
+              <path d="M5 9.42857L7.4 12L13 6" stroke="#51AC31" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+          </div>
+          <div class="info">
+            <p class="content">Đã thêm sản phẩm/ giải pháp thành công</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      <footer class="footer">
+    <style>
+.breadcrumb li:before {
+  display:none
+}
+</style>
+  <div class="breadcrumb">
+    <div class="container">
+      <ul>
+                   <li>
+                          <a href="/vi" title="Trang chủ">Trang chủ</a>
+                      </li>
+                    <li>
+                          <span class="current">Trang 404</span>
+                      </li>
+                </ul>
+    </div>
+  </div>
+
+
+      <div class="footer__top">
+        <div class="container">
+          <h3 class="h2 text-center">Cập nhật thông tin hữu ích từ DURAflex</h3>
+          <div class="form-group" id="form-group-dang-ky">
+                        <a id="webform-submission-dang-ky-page-variant-page-404-block-display-0-form-ajax-content" tabindex="-1" aria-hidden="true"></a><div id="webform-submission-dang-ky-page-variant-page-404-block-display-0-form-ajax" class="webform-ajax-form-wrapper" data-effect="fade" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-dang-ky-form webform-submission-dang-ky-add-form webform-submission-dang-ky-page_variant-page_404-block_display-0-form webform-submission-dang-ky-page_variant-page_404-block_display-0-add-form form-has-btn js-webform-details-toggle webform-details-toggle" id="dang-ky" data-drupal-selector="webform-submission-dang-ky-page-variant-page-404-block-display-0-add-form" action="/sites/default/files/styles/product_full/public/2023-12/6mm-01.jpg" method="post" accept-charset="UTF-8">
+  
+  <div class="webform-elements" data-drupal-selector="edit-elements"><div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-email form-item-email form-no-label">
+      <label for="edit-email" class="visually-hidden">Email</label>
+        <input autocomplete="" data-webform-required-error="Vui lòng nhập email" pattern="^[a-z][a-z0-9_\.]{1,32}@[a-z0-9 \-]{2,}(\.[a-z0-9]{2,4}){1,2}$" data-webform-pattern-error="Địa chỉ email không đúng" data-drupal-selector="edit-email" type="text" id="edit-email" name="email" value="" size="60" maxlength="255" placeholder="Vui lòng nhập email." class="form-text" />
+
+        </div>
+<div class="btn form-actions webform-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--3"><input class="webform-button--submit submit_subscribe_foo btn-newsletter button button--primary js-form-submit form-submit" data-drupal-selector="edit-actions-submit" data-disable-refocus="true" type="submit" id="edit-actions-submit" name="op" value="Gửi" />
+
+</div>
+</div>
+<input autocomplete="off" data-drupal-selector="form-kkurrbmfo1chksuixehb8uyvdrot0nizw7-k-obdlig" type="hidden" name="form_build_id" value="form-KkuRrBMFO1ChKsuixeHb8uyvDrOt0niZw7_k-OBDLig" />
+<input data-drupal-selector="edit-webform-submission-dang-ky-page-variant-page-404-block-display-0-add-form" type="hidden" name="form_id" value="webform_submission_dang_ky_page_variant_page_404-block_display-0_add_form" />
+
+
+  
+</form>
+</div>
+          </div>
+          <p class="text-center hot-line">HOTLINE :<a href="tel: 1800-1218" id="bot-hotline-18" title="1800-1218">1800-1218</a></p>
+          <ul class="footer__socials">
+            <li><a class="bottom-youtube" href="https://www.youtube.com/channel/UCop_DtdSS4bSOXUJWShmw1Q" title="youtube" target="_blank"><img alt="youtube" src="/themes/duraflex/assets/images/dynamic/socials/Video.png"></a></li>
+            <li><a class="bottom-zalo" href="https://zalo.me/3218249434437381102" title="zalo" target="_blank"><img alt="zalo" src="/themes/duraflex/assets/images/dynamic/socials/Zalo.png"></a></li>
+            <li><a class="bottom-facebook" href="https://www.facebook.com/TamDURAflex/" title="facebook" target="_blank"><img alt="facebook" src="/themes/duraflex/assets/images/dynamic/socials/Facebook.png"></a></li>
+          </ul>
+          <div class="row">
+                <div class="col-md-6 col-lg-3">
+        <div class="footer__menu">
+            <h4 class="footer__title"> Thông tin về DURAflex </h4>
+            <ul class="footer__nav">
+                                <li class="" >
+                    <a href="/vi/ve-chung-toi" title="Về chúng tôi">Về chúng tôi</a>
+                </li>
+                                <li class="" >
+                    <a href="/vi/tin-tuc-su-kien" title="Tin tức và sự kiện">Tin tức và sự kiện</a>
+                </li>
+                                <li class="" >
+                    <a href="/vi/he-thong-phan-phoi" title="Hệ thống phân phối ">Hệ thống phân phối </a>
+                </li>
+                                <li class="" >
+                    <a href="/vi/lien-he" title="Liên hệ">Liên hệ</a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+    <div class="col-md-6 col-lg-3">
+        <div class="footer__menu">
+            <h4 class="footer__title"> Sản phẩm </h4>
+            <ul class="footer__nav">
+                                <li class="" >
+                    <a href="/vi/tam-duraflex-2x-6mm-10mm" title="Tấm DURAflex Low Carbon 6mm - 10mm">Tấm DURAflex Low Carbon 6mm - 10mm</a>
+                </li>
+                                <li class="" >
+                    <a href="/tam-duraflex-2x-tren-12mm" title="Tấm DURAflex Low Carbon 12mm - 24mm">Tấm DURAflex Low Carbon 12mm - 24mm</a>
+                </li>
+                                <li class="" >
+                    <a href="https://duraflex.com.vn/vi/tam-xi-mang-van-go-durawood" title="Tấm xi măng vân gỗ DURAwood Low Carbon">Tấm xi măng vân gỗ DURAwood Low Carbon</a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+    <div class="col-md-6 col-lg-3">
+        <div class="footer__menu">
+            <h4 class="footer__title"> Phụ kiện </h4>
+            <ul class="footer__nav">
+                                <li class="" >
+                    <a href="/vi/keo-xu-ly-moi-noi-durafiller" title="Keo xử lý mối nối DURAfiller">Keo xử lý mối nối DURAfiller</a>
+                </li>
+                                <li class="" >
+                    <a href="https://duraflex.com.vn/vi/vit-tu-khoan-duravis" title="Vít tự khoan DURAvis">Vít tự khoan DURAvis</a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <div class="container">
+          <div class="d-flex align-items-center justify-content-between">
+            <div class="footer__copyrightMenu">
+              <p>&copy; 2020 - DURAflex.com.vn</p>
+              <p><a href="https://duraflex.com.vn/vi/dieu-kien-dieu-khoan" title="Điều khoản">Điều kiện &amp; Điều khoản </a></p>
+              <p><a href="https://duraflex.com.vn/vi/chinh-sach-bao-mat" title="Chính sách">Chính sách</a></p>
+            </div><a class="footer__logo" href="/"><img alt="img" src="/themes/duraflex/assets/images/footer-logo.png"></a>
+          </div>
+        </div>
+      </div>
+          </footer>
+    <button class="scroll-top" type="button">
+      <svg width="24" height="15" viewbox="0 0 24 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M2 13L12 2L22 13" stroke="#51AC31" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg>
+  </button>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"vi\/","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"vi","currentQuery":{"file":"2023-12\/6mm-01.jpg"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"classy\/base,classy\/messages,core\/html5shiv,core\/modernizr,core\/normalize,duraflex\/global-css,duraflex\/global-js,duraflex\/page-banner-css,eu_cookie_compliance\/eu_cookie_compliance_default,geofield_proximity_filter\/geofield_proximity_filter,modal_page\/modal-page,seven\/global-styling,views\/views.module,webform\/webform.ajax,webform\/webform.element.details.save,webform\/webform.element.details.toggle,webform\/webform.element.message,webform\/webform.form,webform\/webform.theme.classy,webform\/webform.theme.seven","theme":"duraflex","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/vi\/page-404?file=2023-12\/6mm-01.jpg\u0026ajax_form=1":true},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp\u003ETr\u00ean c\u00e1c trang web ch\u00fang t\u00f4i c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng nh\u1eefng cookie sau: cookie ch\u1ee9c n\u0103ng (d\u00e0nh cho c\u00e1c ch\u1ee9c n\u0103ng c\u01a1 b\u1ea3n c\u1ee7a trang web), cookie th\u1ed1ng k\u00ea\/ph\u00e2n t\u00edch (\u0111\u1ec3 t\u1ea1o ra c\u00e1c th\u1ed1ng k\u00ea ng\u01b0\u1eddi d\u00f9ng) v\u00e0 cookie c\u1ee7a b\u00ean th\u1ee9 ba (\u0111\u1ec3 cung c\u1ea5p t\u00f9y ch\u1ecdn chia s\u1ebb n\u1ed9i dung tr\u00ean c\u00e1c n\u1ec1n t\u1ea3ng ph\u01b0\u01a1ng ti\u1ec7n truy\u1ec1n th\u00f4ng x\u00e3 h\u1ed9i, c\u00e1 nh\u00e2n h\u00f3a c\u00e1c qu\u1ea3ng c\u00e1o v\u00e0 ph\u00e2n t\u00edch th\u00eam vi\u1ec7c s\u1eed d\u1ee5ng trang web c\u1ee7a qu\u00fd v\u1ecb). \u0110\u1ec3 s\u1eed d\u1ee5ng m\u1ed9t s\u1ed1 cookie nh\u1ea5t \u0111\u1ecbnh c\u00f3 th\u1ec3 \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn s\u1ef1 ri\u00eang t\u01b0 c\u1ee7a qu\u00fd v\u1ecb, ch\u00fang t\u00f4i c\u1ea7n s\u1ef1 \u0111\u1ed3ng \u00fd c\u1ee7a qu\u00fd v\u1ecb.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button button button--small\u0022\u003E\u0110\u1ed3ng \u00fd\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003E\u0110\u1ec3 sau\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button button button--small\u0022\u003E\u0110\u1ed3ng \u00fd\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003E\u0110\u1ec3 sau\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/vi","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"vi","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":true,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":1,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button  button button--small button--primary\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":" button button--small button--primary","olivero_secondary_button_classes":" button button--small","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"ajax":{"edit-actions-submit":{"callback":"::submitAjaxForm","event":"click","effect":"fade","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/vi\/page-404?file=2023-12\/6mm-01.jpg\u0026ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"G\u1eedi"}},"edit-submit--2":{"callback":"::submitForm","event":"click","url":"\/vi\/page-404?file=2023-12\/6mm-01.jpg\u0026ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}},"edit-submit":{"callback":"::submitForm","event":"click","url":"\/vi\/page-404?file=2023-12\/6mm-01.jpg\u0026ajax_form=1","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"session_cart":"","user":{"uid":0,"permissionsHash":"204ca6fe16f7e0d2558b39608864d29632cd020a73f21cd0d49db0edc872e31d"}}</script>
+<script src="/sites/default/files/js/js_6zCAh-bONVBhcExUyqapaJGDSzqT1rWCWUwFXoP20Is.js"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=8.9.16" defer></script>
+<script src="/sites/default/files/js/js_ofWVRCBt2MJXqaE495MGrTwjRQ8t-OQrChCupWXBjUk.js"></script>
+
+    
+    
+                          </body>
+
+  <div class="webform-popup modal fade" id="js-thank-you-page-show-modal" role="dialog" aria-hidden="true">
+    <div class="modal-page-dialog modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-page-content modal-content">
+        <div class="modal-body modal-page-body">
+          <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+            <svg xmlns="http://www.w3.org/2000/svg" width="10" height="11" viewbox="0 0 10 11" fill="none">
+              <path d="M6.48737 5.50016L9.85367 2.13385C10.0484 1.93916 10.0484 1.62322 9.85367 1.42822L9.07147 0.646018C8.87678 0.451327 8.56084 0.451327 8.36583 0.646018L4.99984 4.01263L1.63354 0.64633C1.43885 0.45164 1.12291 0.45164 0.927905 0.64633L0.146018 1.42822C-0.0486726 1.62291 -0.0486726 1.93885 0.146018 2.13385L3.51232 5.50016L0.146018 8.86646C-0.0486726 9.06115 -0.0486726 9.37709 0.146018 9.57209L0.928218 10.3543C1.12291 10.549 1.43885 10.549 1.63385 10.3543L4.99984 6.98768L8.36615 10.354C8.56084 10.5487 8.87678 10.5487 9.07178 10.354L9.85398 9.57178C10.0487 9.37709 10.0487 9.06115 9.85398 8.86615L6.48737 5.50016Z" fill="white"></path>
+            </svg>
+          </button>
+          <div class="thankyou-content">
+            <h5 class="text-align-center thankyou-content__title1">Gửi thông tin thành công</h5>
+            <h6 class="text-align-center thankyou-content__title2">Duraflex sẽ liên lạc với bạn trong thời gian sớm nhất.</h6><a class="btn-action" type="button" data-dismiss="modal" aria-label="Close">OK</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    function setCookie(name,value,days) {
+      var expires = "";
+      if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+      }
+      document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+    }
+    function getCookie(name) {
+      var nameEQ = name + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+      }
+      return null;
+    }
+  </script>
+  <script src="https://sp.zalo.me/plugins/sdk.js"></script>
+    <script>
+      $(window).bind('load', function(){
+          // params ($time, $duration)
+          // defaults 5000s, 10000ms
+          showPopupTop();
+          showPopupPromotion();
+      });
+  </script>
+  <script>var lang=['Xem thêm', 'Thu gọn']</script>
+</html>

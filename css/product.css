@@ -1,0 +1,80 @@
+/* Styles cho trang chi tiết sản phẩm */
+.product-detail {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.product-images {
+    display: grid;
+    gap: 20px;
+}
+
+.main-img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.thumbs-wrapper {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.thumbs img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.product-info {
+    margin-top: 30px;
+}
+
+.floating-buttons {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 1000;
+}
+
+.floating-button {
+    display: flex;
+    align-items: center;
+    padding: 12px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.call-button {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.zalo-button {
+    background-color: #0068FF;
+    color: white;
+}
+
+.floating-button svg {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    fill: currentColor;
+}
+
+.floating-button span {
+    white-space: nowrap;
+}
