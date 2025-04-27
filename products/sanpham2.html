@@ -266,10 +266,27 @@
     </a>
   </div>
 
-  <footer>
-    <!-- Có một khoảng trống không cần thiết -->
+  <footer class="site-footer">
+      <div class="footer-content" style="text-align: center; max-width: 600px; margin: 0 auto;">
+          <h3>Góp ý & Đăng ký nhận tin</h3>
+          <form id="feedback-form" style="display: flex; flex-direction: column; gap: 10px;">
+              <input type="email" id="user-email" name="email" placeholder="Nhập email của bạn" required style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
+              <textarea id="user-message" name="message" rows="4" placeholder="Nhập ý kiến phản hồi..." required style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;"></textarea>
+              <button type="submit" style="padding: 10px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Gửi</button>
+          </form>
+      </div>
   </footer>
 
+</script>
+  <script>
+      document.getElementById('feedback-form').addEventListener('submit', function(e) {
+          e.preventDefault();
+          const email = document.getElementById('user-email').value;
+          const message = document.getElementById('user-message').value;
+          const mailtoLink = `mailto:dunvex.green@gmail.com?subject=Góp ý từ ${encodeURIComponent(email)}&body=${encodeURIComponent(message)}`;
+          window.location.href = mailtoLink;
+      });
+  </script>
   <script src="../js/script.js"></script>
 </body>
 </html>
