@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DURAflex - Trang chủ</title>
+    <link rel="icon" href="https://lh3.googleusercontent.com/d/1Yap2iZV2Y1ZRvpXqydmKwj3e104_WZ0m" type="image/png">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/home.css">
 </head>
@@ -451,13 +452,29 @@
     </div>
 </footer>
 </body>
+<!-- Thư viện EmailJS -->
+<script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+
 <script>
-    document.getElementById('feedback-form').addEventListener('submit', function(e) {
-        e.preventDefault();
-        const email = document.getElementById('user-email').value;
-        const message = document.getElementById('user-message').value;
-        const mailtoLink = `mailto:dunvex.green@gmail.com?subject=Góp ý từ ${encodeURIComponent(email)}&body=${encodeURIComponent(message)}`;
-        window.location.href = mailtoLink;
-    });
+  (function(){
+    emailjs.init("ucjcJro8eNU36M-J4"); // Public Key
+  })();
+
+  document.getElementById('feedback-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    const templateParams = {
+      from_email: document.getElementById('user-email').value,
+      message: document.getElementById('user-message').value,
+    };
+
+    emailjs.send('service_cmur83g', 'template_1lijp3l', templateParams)
+      .then(function(response) {
+        alert('Gửi phản hồi thành công!');
+        document.getElementById('feedback-form').reset(); // Xóa form sau khi gửi
+      }, function(error) {
+        alert('Gửi thất bại, vui lòng thử lại.');
+      });
+  });
 </script>
 </html>
