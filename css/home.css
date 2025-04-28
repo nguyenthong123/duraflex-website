@@ -12,7 +12,7 @@ body {
 
 .product-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
     gap: 30px;
     padding: 30px;
     max-width: 1200px;
@@ -328,5 +328,6 @@ body {
     }
     .product-grid {
         grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
     }
 }
