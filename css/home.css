@@ -39,13 +39,10 @@ body {
 }
 
 .product-image img {
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
-    height: 100%;
+    height: auto;
     object-fit: cover;
-    border-radius: 8px 8px 0 0;
+    border-radius: 8px;
 }
 
 .badge {
@@ -329,5 +326,10 @@ body {
     .product-grid {
         grid-template-columns: repeat(3, 1fr);
         gap: 10px;
+    }
+    .product-image img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
     }
 }
