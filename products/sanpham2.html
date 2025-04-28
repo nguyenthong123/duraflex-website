@@ -1,3 +1,271 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Thêm meta description -->
+  <meta name="description" content="Tấm Xi Măng Sợi DURAflex - Sản phẩm chất lượng cao">
+  <!-- Thêm favicon -->
+  <link rel="icon" href="https://lh3.googleusercontent.com/d/1Yap2iZV2Y1ZRvpXqydmKwj3e104_WZ0m" type="image/png">
+  <title>Vít Chuyên Dụng DURA vis - Chi tiết sản phẩm</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/product-detail.css">
+  <!-- Thêm liên kết JavaScript -->
+  <script src="../js/script.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="top-bar">
+      <div class="container">
+        <div id="welcomeMessage">DunVex.com chào buổi ...</div>
+        <div class="contact-info">
+          <a href="tel:0988265914" class="phone">
+            <i class="phone-icon">📞</i>
+            0988 265 914
+          </a>
+          <div class="social-links">
+            <a href="#" class="social-link">
+              <img src="https://img.lovepik.com/png/20231019/youtube-logo-transparent-png-hd-png-free-download-transparency_266843_wh860.png" 
+                   alt="YouTube" 
+                   style="width: 24px; height: 24px; object-fit: contain;">
+            </a>
+            <a href="#" class="social-link">
+              <img src="https://hidosport.vn/wp-content/uploads/2023/09/zalo-icon.png" 
+                   alt="Zalo" 
+                   style="width: 24px; height: 24px; object-fit: contain;">
+            </a>
+            <a href="#" class="social-link">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" 
+                   alt="Facebook" 
+                   style="width: 24px; height: 24px; object-fit: contain;">
+            </a>
+          </div>
+          <div class="search-box">
+            <input type="text" placeholder="Tìm kiếm nhanh">
+            <button type="button" class="search-button">🔍</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <nav class="main-nav">
+      <div class="container">
+        <a href="../index.html" class="logo">
+          <img src="https://lh3.googleusercontent.com/d/12GRBrXsqj1vL9kcUqaw2CCM1mOvs1KlF" 
+               alt="DURAflex Logo"
+               style="width: 180px; height: auto;">
+        </a>
+        <ul class="nav-links">
+          <li><a href="#">ỨNG DỤNG</a></li>
+          <li><a href="#">SẢN PHẨM</a></li>
+          <li><a href="#">BẢNG GIÁ</a></li>
+          <li><a href="#">Ý TƯỞNG</a></li>
+          <li><a href="#" class="highlight">HỆ THỐNG PHÂN PHỐI</a></li>
+        </ul>
+        <div class="email-contact">
+          <a href="mailto:dunvex.green@gmail.com" class="email-link">
+            <i class="email-icon">✉️</i>
+            <span>dunvex.green@gmail.com</span>
+          </a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <div class="container">
+    <div class="left">
+      <img id="mainImg" 
+           class="main-img" 
+           src="https://lh3.googleusercontent.com/d/1CrHuh05opsLhcnufGgWxw9Rv93DjWQLC" 
+           alt="Vít Chuyên Dụng DURA vis">
+      <div class="thumbs-wrapper">
+        <div class="thumbs">
+          <img src="https://lh3.googleusercontent.com/d/1mJL6KCqaktpzUDZxoL4SBzGNtohpXUVf" onclick="changeImage(this.src)" alt="Thumbnail 1">
+          <img src="https://lh3.googleusercontent.com/d/1vNhPIXPQoYquq25BqqZSiTUp-vpUJurT" onclick="changeImage(this.src)" alt="Thumbnail 2">
+          <img src="https://lh3.googleusercontent.com/d/1c7uX73pN-pFWtU28S6mx0sMtyOa7SOLG" onclick="changeImage(this.src)" alt="Thumbnail 3">
+          <img src="https://duraflex.com.vn/sites/default/files/2021-01/vit-tu-khoan-duravis-chi-tiet-1_1.png" onclick="changeImage(this.src)" alt="Thumbnail 4">
+          <img src="https://duraflex.com.vn/sites/default/files/2021-01/vit-tu-khoan-duravis-co-tinh-nang-noi-bat_1.png" onclick="changeImage(this.src)" alt="Thumbnail 5">
+        </div>
+      </div>
+    </div>
+    
+    <div class="right">
+      <h2>Chọn Sản Phẩm</h2>
+      <div class="product-selector">
+        <label for="productSelect">Tên sản phẩm:</label>
+        <select id="productSelect" onchange="updateSizeOptions()">
+          <option value="">-- Chọn sản phẩm --</option>
+          <option value="Vít Chuyên Dụng DURA vis">Vít Chuyên Dụng DURA vis</option>
+        </select>
+      </div>
+
+      <div class="size-selector">
+        <label for="sizeSelect">Quy cách:</label>
+        <select id="sizeSelect" onchange="displayProductInfo()">
+          <option value="">-- Chọn quy cách --</option>
+        </select>
+      </div>
+
+      <div id="productInfo" class="product-info" style="display: none;">
+        <p><strong>Đóng gói:</strong> <span id="packaging"></span></p>
+        <p><strong>Công dụng:</strong> <span id="usage"></span></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="guide-section">
+    <h2 style="text-align:center">Ứng dụng sản phẩm</h2>
+    <div class="tab-list">
+      <button class="tab-button active" data-tab="app1">
+        <i class="tab-icon">🏭</i>
+        <span class="tab-label">Nhà công nghiệp</span>
+      </button>
+      <button class="tab-button" data-tab="app2">
+        <i class="tab-icon">🏠</i>
+        <span class="tab-label">Nhà dân dụng</span>
+      </button>
+      <button class="tab-button" data-tab="app3">
+        <i class="tab-icon">🏬</i>
+        <span class="tab-label">Mô hình kinh doanh</span>
+      </button>
+    </div>
+    <div id="app1" class="tab-content active">
+      <p style="text-align:center">Sử dụng tấm DURAflex cho trần, vách và sàn công nghiệp trong các khu nhà máy, nhà kho với độ bền cao và chống cháy.</p>
+      <div style="text-align:center">
+        <img src="https://lh3.googleusercontent.com/d/1erP-l1safrRItHojZNND4JP8sqPuxGHE" 
+             alt="Ứng dụng nhà xưởng" 
+             style="max-width:100%; width:600px; border-radius:10px; margin:10px auto;">
+      </div>
+    </div>
+    <div id="app2" class="tab-content">
+      <p style="text-align:center">Thi công gác lửng, sàn nhẹ, trần và tường cho nhà ở dân dụng, giúp cách nhiệt, chống ẩm và tiết kiệm chi phí.</p>
+      <div style="text-align:center">
+        <img src="https://lh3.googleusercontent.com/d/18-L0RozWLeqyPptEuMPk8jjxC1eBxams" 
+             alt="Ứng dụng dân dụng" 
+             style="max-width:100%; width:600px; border-radius:10px; margin:10px auto;">
+      </div>
+    </div>
+    <div id="app3" class="tab-content">
+      <p style="text-align:center">Trang trí và xây dựng hệ thống vách ngăn, quầy kệ trong các cửa hàng, showroom, giúp tối ưu không gian và tạo thẩm mỹ cao.</p>
+      <div style="text-align:center">
+        <img src="https://lh3.googleusercontent.com/d/1GXj1fDCKd_kpdsoWkLmusXupBiBlXJ3r" 
+             alt="Ứng dụng kinh doanh" 
+             style="max-width:100%; width:600px; border-radius:10px; margin:10px auto;">
+      </div>
+    </div>
+  </div>
+
+  <div class="guide-section">
+    <h2 style="text-align:center">Video thi công</h2>
+    <div class="tab-list">
+      <button class="tab-button active" data-tab="video1">
+        <i class="tab-icon">🏗️</i>
+        <span class="tab-label">Thi công mái</span>
+      </button>
+      <button class="tab-button" data-tab="video2">
+        <i class="tab-icon">🧱</i>
+        <span class="tab-label">Thi công vách</span>
+      </button>
+      <button class="tab-button" data-tab="video3">
+        <i class="tab-icon">🏠</i>
+        <span class="tab-label">Thi công gác lửng</span>
+      </button>
+    </div>
+
+    <div id="video1" class="tab-content active">
+      <div class="video-wrapper">
+        <iframe 
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/9YBdPwK_WEQ?si=XalO4JId81HhT4lF" 
+          title="Thi công mái" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+
+    <div id="video2" class="tab-content">
+      <div class="video-wrapper">
+        <iframe 
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/eDwuNVkZhZU?si=FP3LN-h_Obob1d4_" 
+          title="Thi công vách" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+
+    <div id="video3" class="tab-content">
+      <div class="video-wrapper">
+        <iframe 
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/YMq8XuZJcLQ?si=36Izy1bT5eZfsiCG" 
+          title="Thi công gác lửng" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="guide-section">
+    <h2 style="text-align:center">Chứng nhận sản phẩm</h2>
+    <div class="certificates-wrapper">
+      <div class="certificates-slider" id="certSlider">
+        <div class="certificate-item">
+          <img src="https://duraflex.com.vn/sites/default/files/2021-05/chung-nhan-test-khong-voc-formaldehyde.png" alt="Chứng nhận VOC" onclick="openLightbox(this.src)">
+          <p>Không VOC, Formaldehyde</p>
+        </div>
+        <div class="certificate-item">
+          <img src="https://duraflex.com.vn/sites/default/files/2021-05/chung-nhan-he-so-dan-nhiet.png" alt="Chứng nhận nhiệt" onclick="openLightbox(this.src)">
+          <p>Hệ số dẫn nhiệt</p>
+        </div>
+        <div class="certificate-item">
+          <img src="https://duraflex.com.vn/sites/default/files/2021-05/chung-nhan-test-qua-kiem-tra-khong-amiang.png" 
+               alt="Test không A-mi-Ang" 
+               onclick="openLightbox(this.src)">
+          <p>Test không A-mi-Ang</p>
+        </div>
+        <div class="certificate-item">
+          <img src="https://duraflex.com.vn/sites/default/files/2021-05/chung-nhan-test-vat-lieu-khong-chay.png" 
+               alt="Test vật liệu không cháy" 
+               onclick="openLightbox(this.src)">
+          <p>Test vật liệu không cháy</p>
+        </div>
+        <div class="certificate-item">
+          <img src="https://duraflex.com.vn/sites/default/files/2021-05/chung-nhan-test-co-ly-theo-astm-c1185.png" 
+               alt="Test cơ lý" 
+               onclick="openLightbox(this.src)">
+          <p>Test cơ lý theo ASTM C1185</p>
+        </div>
+      </div>
+      <div class="cert-dots" id="certDots"></div>
+    </div>
+  </div>
+
+  <div id="lightbox" onclick="this.style.display='none'" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.8); justify-content:center; align-items:center; z-index:9999;">
+    <img id="lightbox-img" src="" alt="Chứng nhận phóng to" style="max-width:90%; max-height:90%; border-radius:10px;">
+  </div>
+
+  <!-- Floating action buttons -->
+  <div class="floating-buttons">
+    <a href="tel:0988265914" class="floating-button call-button">
+      <i class="button-icon">📞</i>
+      <span class="button-label">Gọi ngay</span>
+    </a>
+    <a href="https://zalo.me/0988265914" class="floating-button message-button">
+      <i class="button-icon">💬</i>
+      <span class="button-label">Nhắn Zalo</span>
+    </a>
+  </div>
+
   <footer class="site-footer">
     <div class="footer-content" style="text-align: center; max-width: 600px; margin: 0 auto;">
       <h3>Góp ý & Đăng ký nhận tin</h3>
@@ -9,27 +277,27 @@
     </div>
   </footer>
 
-<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
-<script>
-  (function() {
-    emailjs.init("ucjcJro8eNU36M-J4"); // Your EmailJS Public Key
-  })();
+  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+  <script>
+    (function() {
+      emailjs.init("ucjcJro8eNU36M-J4"); // Your EmailJS Public Key
+    })();
 
-  document.getElementById('feedback-form').addEventListener('submit', function(e) {
-    e.preventDefault();
-    const serviceID = 'service_cmur83g';
-    const templateID = 'template_1lijp3l';
+    document.getElementById('feedback-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const serviceID = 'service_cmur83g';
+      const templateID = 'template_1lijp3l';
 
-    emailjs.sendForm(serviceID, templateID, this)
-      .then(() => {
-        alert('Gửi thành công! Cảm ơn bạn đã phản hồi.');
-        document.getElementById('feedback-form').reset();
-      }, (err) => {
-        alert('Gửi thất bại, vui lòng thử lại.');
-        console.error('FAILED...', err);
-      });
-  });
-</script>
+      emailjs.sendForm(serviceID, templateID, this)
+        .then(() => {
+          alert('Gửi thành công! Cảm ơn bạn đã phản hồi.');
+          document.getElementById('feedback-form').reset();
+        }, (err) => {
+          alert('Gửi thất bại, vui lòng thử lại.');
+          console.error('FAILED...', err);
+        });
+    });
+  </script>
   <script src="../js/script.js"></script>
 </body>
 </html>
