@@ -699,13 +699,17 @@ body {
     display: block;
     cursor: pointer;
     font-size: 24px;
-    padding: 10px;
+    padding: 0 10px;
     background: none;
     border: none;
     position: absolute;
-    left: 15px;
-    top: 15px;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
     z-index: 1001;
+    height: 100%;
+    display: flex;
+    align-items: center;
   }
 
   .nav-links {
