@@ -35,7 +35,7 @@ body {
 
 .product-image {
     position: relative;
-    padding-top: 75%; /* Tỷ lệ khung hình 4:3 */
+    padding-top: 60%; /* Giảm chiều cao khung hình ảnh để giảm khoảng trống */
 }
 
 .product-image img {
@@ -57,7 +57,7 @@ body {
 }
 
 .product-info {
-    padding: 15px;
+    padding: 10px;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -331,6 +331,15 @@ body {
         width: 100%;
         height: auto;
         object-fit: cover;
+    }
+    .product-image {
+        padding-top: 70%; /* Mobile giữ cân đối, đỡ bị dài quá */
+    }
+}
+
+@media (max-width: 480px) {
+    .product-image {
+        padding-top: 80%; /* Điện thoại nhỏ tăng tí xíu cho cân */
     }
 }
 /* === BỔ SUNG CHO 4 SẢN PHẨM 1 HÀNG MÀN HÌNH LỚN === */
