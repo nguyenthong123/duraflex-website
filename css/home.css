@@ -333,3 +333,36 @@ body {
         object-fit: cover;
     }
 }
+/* === BỔ SUNG CHO 4 SẢN PHẨM 1 HÀNG MÀN HÌNH LỚN === */
+
+@media (min-width: 1025px) {
+    .product-grid {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      padding: 20px;
+    }
+  }
+  
+  /* Responsive cho Tablet (3 cột) */
+  @media (max-width: 1024px) and (min-width: 769px) {
+    .product-grid {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 15px;
+    }
+  }
+  
+  /* Responsive cho Mobile lớn (2 cột) */
+  @media (max-width: 768px) and (min-width: 481px) {
+    .product-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+    }
+  }
+  
+  /* Responsive cho Mobile nhỏ (1 cột) */
+  @media (max-width: 480px) {
+    .product-grid {
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+  }
