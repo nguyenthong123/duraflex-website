@@ -645,7 +645,9 @@ body {
 }
 
 .nav-links {
-  display: none;
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
   gap: 30px;
   list-style: none;
   margin: 0;
