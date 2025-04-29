@@ -234,7 +234,7 @@ body {
   }
   
   .certificate-item {
-	flex: 0 0 calc(50% - 10px);
+    flex: 0 0 100%;
 	scroll-snap-align: start;
 	background: white;
 	padding: 15px;
@@ -250,7 +250,7 @@ body {
   
   .certificate-item img {
 	width: 100%;
-	max-width: 300px;
+	max-width: 250px;
 	height: auto;
 	object-fit: contain;
 	border-radius: 6px;
@@ -335,6 +335,16 @@ body {
       padding: 5px 15px; /* Điều chỉnh padding */
       align-items: center; /* Căn giữa các mục nếu dùng column */
     }
+     /* Trends Section */
+     .trend-layout {
+      grid-template-columns: 1fr; /* Stack image and description */
+      gap: 20px;
+      padding: 20px;
+  }
+  .trend-tabs {
+    flex-wrap: wrap; /* Cho phép các tab xuống dòng */
+    justify-content: center;
+}
 	
 	.left, .right {
 	  width: 100%;
@@ -367,8 +377,8 @@ body {
 	}
 	
 	.tab-button {
-	  min-width: 150px;
-	  padding: 12px 20px;
+    min-width: unset;
+	  padding: 10px 15px;
 	}
 	
 	.tab-icon {
@@ -431,11 +441,11 @@ body {
 /* Floating Buttons */
 .floating-buttons {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 15px;
+  right: 15px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 8px;
   z-index: 999;
 }
 
@@ -481,7 +491,7 @@ body {
   }
   
   .floating-button {
-    padding: 10px 16px;
+    padding: 10px 15px;
   }
   
   .button-label {
@@ -575,7 +585,7 @@ body {
   border: none;
   outline: none;
   padding: 5px;
-  width: 150px;
+  width: 120px;
 }
 
 .search-button {
@@ -586,21 +596,25 @@ body {
 
 .main-nav {
   padding: 8px 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1); /* Giảm nhẹ đổ bóng */
   transition: padding 0.3s ease;
   background: white;
 }
 
 .main-nav .container {
   display: flex; /* Đảm bảo nó là flex container */
-  justify-content: flex-start; /* Căn lề trái. Dùng 'center' nếu muốn căn giữa */
+  flex-direction: row; /* Quan trọng: Buộc các item nằm ngang hàng */
+  justify-content: center; /* Hoặc 'flex-start' nếu muốn logo và email ở lề trái */
   align-items: center; /* Căn giữa theo chiều dọc */
-  gap: 15px; /* Thêm khoảng cách giữa logo và email */
+  gap: 20px; /* Thêm khoảng cách giữa logo và email */
   flex-wrap: nowrap; /* Đảm bảo không bị xuống dòng */
   padding: 0 15px; /* Điều chỉnh padding hai bên nếu cần */
 }
 
-.logo img {
-  height: 35px;
+ /* Logo */
+ .logo img {
+  height: 35px; /* Giảm kích thước logo */
+  flex-shrink: 0; /* Ngăn logo bị co lại quá nhỏ */
 }
 
 .nav-links {
@@ -647,6 +661,8 @@ body {
   .top-bar .container {
     flex-direction: column;
     gap: 10px;
+    padding: 5px 15px; /* Giảm padding */
+    align-items: center; /* Căn giữa các mục khi dùng column */
   }
   
   .nav-links {
@@ -658,23 +674,28 @@ body {
   }
 }
 
-/* Email Contact */
-.email-contact {
-  display: flex;
-  align-items: center;
+  /* Email Contact */
+  .email-contact {
+    /* Đảm bảo div wrapper không gây ảnh hưởng */
+    width: auto; /* Chỉ chiếm chiều rộng cần thiết */
+    flex-shrink: 0; /* Ngăn nó bị co lại */
+}
+.email-link span {
+  display: none; /* Ẩn chữ email, chỉ để lại icon */
 }
 
 .email-link {
+  /* Điều chỉnh padding cho icon email */
+  padding: 5px;
+  border-radius: 50%; /* Bo tròn nếu chỉ có icon */
+  background: none; /* Bỏ background nếu có */
+  color: #333; /* Màu cho icon */
+  /* Có thể thêm display: flex và align-items/justify-content để căn giữa icon */
   display: flex;
   align-items: center;
-  gap: 8px;
-  text-decoration: none;
-  color: #333;
-  font-size: 14px;
-  padding: 8px 15px;
-  border-radius: 20px;
-  transition: all 0.3s ease;
+  justify-content: center;
 }
+
 
 .email-link:hover {
   background: #f5f5f5;
@@ -682,7 +703,7 @@ body {
 }
 
 .email-icon {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 /* Update responsive styles */
