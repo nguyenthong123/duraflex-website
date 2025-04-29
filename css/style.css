@@ -328,10 +328,13 @@ body {
   
   /* Responsive Design */
   @media (max-width: 768px) {
-	.container {
-	  flex-direction: column;
-	  align-items: center;
-	}
+    /* Các quy tắc cho top-bar trên mobile (có thể đã có) */
+    .top-bar .container {
+      flex-direction: column; /* Hoặc row nếu muốn số điện thoại/social ngang hàng */
+      gap: 10px;
+      padding: 5px 15px; /* Điều chỉnh padding */
+      align-items: center; /* Căn giữa các mục nếu dùng column */
+    }
 	
 	.left, .right {
 	  width: 100%;
@@ -512,9 +515,13 @@ body {
 }
 
 .contact-info {
-  display: flex;
-  align-items: center;
-  gap: 20px;
+  /* Điều chỉnh flex-direction nếu top-bar dùng column */
+  flex-direction: column; /* Hoặc row */
+  gap: 10px; /* Khoảng cách giữa số điện thoại và social */
+  align-items: center; /* Căn giữa các mục */
+}
+.phone, .social-links {
+  justify-content: center; /* Căn giữa nội dung bên trong */
 }
 
 .phone {
@@ -568,7 +575,7 @@ body {
   border: none;
   outline: none;
   padding: 5px;
-  width: 200px;
+  width: 150px;
 }
 
 .search-button {
@@ -578,26 +585,26 @@ body {
 }
 
 .main-nav {
-  padding: 10px 0;
+  padding: 8px 0;
   transition: padding 0.3s ease;
   background: white;
 }
 
 .main-nav .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
+  display: flex; /* Đảm bảo nó là flex container */
+  justify-content: flex-start; /* Căn lề trái. Dùng 'center' nếu muốn căn giữa */
+  align-items: center; /* Căn giữa theo chiều dọc */
+  gap: 15px; /* Thêm khoảng cách giữa logo và email */
+  flex-wrap: nowrap; /* Đảm bảo không bị xuống dòng */
+  padding: 0 15px; /* Điều chỉnh padding hai bên nếu cần */
 }
 
 .logo img {
-  height: 40px;
+  height: 35px;
 }
 
 .nav-links {
-  display: flex;
+  display: none;
   gap: 30px;
   list-style: none;
   margin: 0;
@@ -679,14 +686,15 @@ body {
 }
 
 /* Update responsive styles */
-@media (max-width: 768px) {
-  .email-link span {
-    display: none;
-  }
-  
-  .email-link {
-    padding: 8px;
-  }
+.email-link {
+  padding: 5px; /* Giảm padding để icon nhỏ gọn hơn */
+  /* Bỏ border-radius lớn nếu có để icon đơn giản */
+  border-radius: 50%; /* Có thể bo tròn hoàn toàn nếu chỉ có icon */
+  background: none; /* Bỏ background nếu có */
+  color: #333; /* Đảm bảo màu icon rõ */
+}
+.email-icon {
+    font-size: 20px; /* Điều chỉnh kích thước icon */
 }
 
 /* Footer Feedback Section */
