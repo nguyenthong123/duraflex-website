@@ -22,6 +22,7 @@
                 <a href="index.html" class="logo">
                     <img src="https://lh3.googleusercontent.com/d/12GRBrXsqj1vL9kcUqaw2CCM1mOvs1KlF" alt="DURAflex Logo">
                 </a>
+                <button class="menu-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
                 <ul class="nav-links">
                     <li><a href="#">ỨNG DỤNG</a></li>
                     <li><a href="#">SẢN PHẨM</a></li>
@@ -394,7 +395,28 @@
         </form>
     </div>
 </footer>
-</body>
+<script>
+  // Đóng menu mobile khi click ngoài hoặc click vào link
+  document.addEventListener('click', function(event) {
+    const navLinks = document.querySelector('.nav-links');
+    const toggleButton = document.querySelector('.menu-toggle');
+
+    if (!navLinks || !toggleButton) return;
+
+    const isClickInsideMenu = navLinks.contains(event.target);
+    const isClickOnToggle = toggleButton.contains(event.target);
+
+    if (!isClickInsideMenu && !isClickOnToggle) {
+      navLinks.classList.remove('open');
+    }
+  });
+
+  document.querySelectorAll('.nav-links a').forEach(link => {
+    link.addEventListener('click', () => {
+      document.querySelector('.nav-links').classList.remove('open');
+    });
+  });
+</script>
 <!-- Thư viện EmailJS -->
 <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
 
@@ -420,4 +442,5 @@
       });
   });
 </script>
+</body>
 </html>

@@ -693,13 +693,45 @@ body {
     padding: 5px 15px; /* Giảm padding */
     align-items: center; /* Căn giữa các mục khi dùng column */
   }
-  
+
+  .menu-toggle {
+    display: block;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 10px;
+    background: none;
+    border: none;
+  }
+
   .nav-links {
     display: none;
+    flex-direction: column;
+    background: white;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   }
-  
+
+  .nav-links.open {
+    display: flex;
+  }
+
+  .nav-links li {
+    padding: 10px 20px;
+    text-align: center;
+  }
+
   .search-box input {
     width: 150px;
+  }
+}
+
+@media (min-width: 769px) {
+  .menu-toggle {
+    display: none;
   }
 }
 
