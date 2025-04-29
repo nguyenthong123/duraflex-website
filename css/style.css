@@ -641,9 +641,9 @@ body {
 
  /* Logo */
  .logo img {
-  height: 35px; /* Giảm kích thước logo */
-  flex-shrink: 0; /* Ngăn logo bị co lại quá nhỏ */
-}
+  height: 28px;
+  flex-shrink: 0;
+ }
 
 .nav-links {
   display: flex;
