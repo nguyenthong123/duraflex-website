@@ -629,13 +629,14 @@ body {
 }
 
 .main-nav .container {
-  display: flex; /* Đảm bảo nó là flex container */
-  flex-direction: row; /* Quan trọng: Buộc các item nằm ngang hàng */
-  justify-content: center; /* Hoặc 'flex-start' nếu muốn logo và email ở lề trái */
-  align-items: center; /* Căn giữa theo chiều dọc */
-  gap: 20px; /* Thêm khoảng cách giữa logo và email */
-  flex-wrap: nowrap; /* Đảm bảo không bị xuống dòng */
-  padding: 0 15px; /* Điều chỉnh padding hai bên nếu cần */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: nowrap;
+  padding: 0 15px;
+  position: relative;
 }
 
  /* Logo */
