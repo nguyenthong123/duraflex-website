@@ -34,8 +34,13 @@ body {
 }
 
 .product-image {
-    position: relative;
-    padding-top: 45%; /* Giảm mạnh chiều cao khung hình để giảm khoảng trống */
+    height: 220px;
+    overflow: hidden;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
 }
 
 .product-image img {
@@ -332,8 +337,11 @@ body {
         height: auto;
         object-fit: cover;
     }
-    .product-image {
-        padding-top: 70%; /* Mobile giữ cân đối, đỡ bị dài quá */
+    .product-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
     }
 }
 
