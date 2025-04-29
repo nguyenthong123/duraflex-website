@@ -78,3 +78,18 @@
 .floating-button span {
     white-space: nowrap;
 }
+.product-card {
+    /* Áp dụng style cho từng ô sản phẩm nếu cần */
+}
+
+.product-card img {
+    margin-top: 0;
+    height: 240px;
+    object-fit: cover;
+    display: block;
+}
+
+.product-card .image-wrapper {
+    padding: 0;
+    margin: 0;
+}
