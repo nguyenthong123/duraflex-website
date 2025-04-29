@@ -916,3 +916,30 @@ Cách đơn giản là ẩn toàn bộ div.contact-info */
 }
 
 
+
+
+/* Loại bỏ khoảng trắng thừa phía trên hình ảnh sản phẩm, đặc biệt trên mobile */
+.product-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100%;
+}
+
+.product-image {
+  flex-shrink: 0;
+  height: 220px;
+  overflow: hidden;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.product-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
