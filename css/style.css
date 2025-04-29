@@ -315,6 +315,33 @@ body {
   
   /* Responsive Footer */
   @media (max-width: 768px) {
+    .product-page .top-bar .contact-info .phone,
+    .product-page .top-bar .contact-info .social-links,
+    .product-page .top-bar .contact-info .search-box {
+        display: none; /* Ẩn các phần tử này */
+    }
+     .product-page .top-bar .contact-info {
+        display: none; /* Ẩn toàn bộ khối chứa số điện thoại, social, tìm kiếm trên mobile */
+    }
+
+    /* Điều chỉnh lại layout của top-bar container trên mobile */
+    /* Khi contact-info bị ẩn, chỉ còn welcome message */
+    .product-page .top-bar .container {
+        /* Giữ lại flex-direction: column; và align-items: center; từ quy tắc mobile chung */
+        /* Đảm bảo justify-content phù hợp */
+        justify-content: center; /* Căn giữa welcome message */
+        gap: 0; /* Bỏ gap */
+        padding: 5px 15px; /* Giữ padding mobile */
+        flex-direction: column; /* Giữ hướng flex cho mobile */
+        align-items: center; /* Giữ căn giữa cho mobile */
+    }
+
+     /* Căn giữa nội dung của welcome message trên mobile */
+    .product-page .welcome {
+        width: 100%;
+        text-align: center;
+    }
+
 	.footer-container {
 	  flex-direction: column;
 	  text-align: center;
@@ -820,3 +847,29 @@ body {
     border-radius: 4px;
   }
 }
+.product-page .top-bar .contact-info .phone,
+.product-page .top-bar .contact-info .social-links,
+.product-page .top-bar .contact-info .search-box {
+    display: none; /* Ẩn các phần tử này */
+}
+Cách đơn giản là ẩn toàn bộ div.contact-info */
+.product-page .top-bar .contact-info {
+    display: none; /* Ẩn toàn bộ khối chứa số điện thoại, social, tìm kiếm */
+}
+.product-page .top-bar .container {
+  /* Hiện tại là display: flex; justify-content: space-between; */
+  /* Khi contact-info display: none, welcome sẽ là item duy nhất */
+  justify-content: center; /* Căn giữa welcome message */
+  /* Bỏ gap nếu có */
+  gap: 0;
+  /* Đảm bảo không có flex-direction column từ mobile áp dụng sai */
+  flex-direction: row; /* Hoặc mặc định row */
+  align-items: center; /* Căn giữa theo chiều dọc */
+}
+/* Căn giữa nội dung của welcome message */
+.product-page .welcome {
+  width: 100%; /* Cho phép chiếm toàn bộ chiều rộng có thể */
+  text-align: center; /* Căn giữa text */
+}
+
+
